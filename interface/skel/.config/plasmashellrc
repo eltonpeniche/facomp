@@ -1,0 +1,12 @@
+[PlasmaRunnerManager]
+LaunchCounts=2 services_powerdevilprofilesconfig.desktop,1 services_google-chrome.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=44
+
+[ScreenConnectors]
+0=HDMI-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=A Wine application
+MimeType=application/x-wine-extension-brm;
+Exec=env WINEPREFIX="/home/bowser/.wine" wine-stable start /ProgIDOpen Arquivo\\ do\\ brModelo %f
+NoDisplay=true
+StartupNotify=true

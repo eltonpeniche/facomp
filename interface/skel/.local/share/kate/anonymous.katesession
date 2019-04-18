@@ -1,0 +1,127 @@
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/bowser/Documentos/LDAP/cliente
+
+[Kate Plugins]
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=false
+katectagsplugin=false
+katefilebrowserplugin=false
+katefiletreeplugin=true
+kategdbplugin=false
+katekonsoleplugin=false
+kateopenheaderplugin=false
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+kterustcompletionplugin=false
+ktexteditor_lumen=false
+ktexteditorpreviewplugin=false
+tabswitcherplugin=true
+textfilterplugin=false
+
+[MainWindow0]
+Active ViewSpace=0
+Kate-MDI-H-Splitter=200,1890,200
+Kate-MDI-Sidebar-0-Splitter=0
+Kate-MDI-Sidebar-1-Splitter=
+Kate-MDI-Sidebar-2-Splitter=
+Kate-MDI-Sidebar-3-Splitter=0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=false
+Kate-MDI-V-Splitter=150,947,200
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Window-Maximized 1080x1920=true
+
+[MainWindow0 Settings]
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Window-Maximized 1080x1920=true
+WindowState=10
+
+[MainWindow0-Splitter 0]
+Children=MainWindow0-ViewSpace 0
+Orientation=1
+Sizes=1890
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/bowser/Documentos/LDAP/cliente
+Count=1
+Documents=file:///home/bowser/Documentos/LDAP/cliente
+View 0=file:///home/bowser/Documentos/LDAP/cliente
+
+[MainWindow0-ViewSpace 0 file:///home/bowser/Documentos/FACOMP/brmodelo for linux/brModelo]
+CursorColumn=0
+CursorLine=3
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/bowser/Documentos/FACOMP/script do linux facomp/facomp-livre.sh]
+CursorColumn=0
+CursorLine=100
+JumpList=
+TextFolding=[]
+ViMarks=.,100,0,[,100,0,],100,0
+
+[MainWindow0-ViewSpace 0 file:///home/bowser/Documentos/LDAP/cliente]
+CursorColumn=0
+CursorLine=37
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katesearchplugin:MainWindow:0]
+BinaryFiles=false
+CurrentExcludeFilter=-1
+CurrentFilter=-1
+ExcludeFilters=
+ExpandSearchResults=false
+Filters=
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Replaces=
+Search=
+SearchDiskFiles=
+SearchDiskFiless=
+UseRegExp=false
+
+[Recent Files]
+File1[$e]=$HOME/Documentos/FACOMP/brmodelo for linux/brModelo
+File2[$e]=$HOME/Documentos/FACOMP/script do linux facomp/netbeans.sh
+File3[$e]=$HOME/Documentos/FACOMP/script do linux facomp/filipe_apps.sh
+File4[$e]=$HOME/Documentos/FACOMP/script do linux facomp/facomp-livre.sh
+File5[$e]=$HOME/Documentos/LDAP/cliente
+Name1[$e]=brModelo
+Name2[$e]=netbeans.sh
+Name3[$e]=filipe_apps.sh
+Name4[$e]=facomp-livre.sh
+Name5[$e]=cliente

@@ -1,0 +1,261 @@
+# Este arquivo viminfo foi gerado pelo Vim 8.0.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Histórico de linha de comando (mais recente primeiro):
+:q
+|2,0,1554430776,,"q"
+:q!
+|2,0,1554425885,,"q!"
+:w
+|2,0,1554425874,,"w"
+:source %d
+|2,0,1554425868,,"source %d"
+
+# Histórico de expressões de busca (mais recente primeiro):
+
+# Histórico de expressões (mais recente primeiro):
+
+# Histórico de linha de entrada (mais recente primeiro):
+
+# Histórico de linha de debug (mais recente primeiro):
+
+# Registradores:
+
+# Marcas nos arquivos:
+'0  1  0  ~/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu
+|4,48,1,0,1554430776,"~/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu"
+'1  1  0  /usr/share/applications/org.kde.drkonqi.desktop
+|4,49,1,0,1554430747,"/usr/share/applications/org.kde.drkonqi.desktop"
+'2  27  0  /etc/skel/.profile
+|4,50,27,0,1554425997,"/etc/skel/.profile"
+'3  36  0  /etc/skel/.face
+|4,51,36,0,1554425987,"/etc/skel/.face"
+'4  117  0  /etc/skel/.bashrc
+|4,52,117,0,1554425974,"/etc/skel/.bashrc"
+'5  1  0  /etc/skel/.bash_logout
+|4,53,1,0,1554425957,"/etc/skel/.bash_logout"
+
+# Lista de saltos (mais recente primeiro):
+-'  1  0  ~/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu
+|4,39,1,0,1554430776,"~/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu"
+-'  1  0  /usr/share/applications/org.kde.drkonqi.desktop
+|4,39,1,0,1554430747,"/usr/share/applications/org.kde.drkonqi.desktop"
+-'  1  0  /usr/share/applications/org.kde.drkonqi.desktop
+|4,39,1,0,1554430747,"/usr/share/applications/org.kde.drkonqi.desktop"
+-'  27  0  /etc/skel/.profile
+|4,39,27,0,1554425997,"/etc/skel/.profile"
+-'  27  0  /etc/skel/.profile
+|4,39,27,0,1554425997,"/etc/skel/.profile"
+-'  27  0  /etc/skel/.profile
+|4,39,27,0,1554425997,"/etc/skel/.profile"
+-'  27  0  /etc/skel/.profile
+|4,39,27,0,1554425997,"/etc/skel/.profile"
+-'  1  0  /etc/skel/.profile
+|4,39,1,0,1554425992,"/etc/skel/.profile"
+-'  1  0  /etc/skel/.profile
+|4,39,1,0,1554425992,"/etc/skel/.profile"
+-'  1  0  /etc/skel/.profile
+|4,39,1,0,1554425992,"/etc/skel/.profile"
+-'  1  0  /etc/skel/.profile
+|4,39,1,0,1554425992,"/etc/skel/.profile"
+-'  36  0  /etc/skel/.face
+|4,39,36,0,1554425987,"/etc/skel/.face"
+-'  36  0  /etc/skel/.face
+|4,39,36,0,1554425987,"/etc/skel/.face"
+-'  36  0  /etc/skel/.face
+|4,39,36,0,1554425987,"/etc/skel/.face"
+-'  36  0  /etc/skel/.face
+|4,39,36,0,1554425987,"/etc/skel/.face"
+-'  36  0  /etc/skel/.face
+|4,39,36,0,1554425987,"/etc/skel/.face"
+-'  36  0  /etc/skel/.face
+|4,39,36,0,1554425987,"/etc/skel/.face"
+-'  36  0  /etc/skel/.face
+|4,39,36,0,1554425987,"/etc/skel/.face"
+-'  36  0  /etc/skel/.face
+|4,39,36,0,1554425987,"/etc/skel/.face"
+-'  1  0  /etc/skel/.face
+|4,39,1,0,1554425983,"/etc/skel/.face"
+-'  1  0  /etc/skel/.face
+|4,39,1,0,1554425983,"/etc/skel/.face"
+-'  1  0  /etc/skel/.face
+|4,39,1,0,1554425983,"/etc/skel/.face"
+-'  1  0  /etc/skel/.face
+|4,39,1,0,1554425983,"/etc/skel/.face"
+-'  1  0  /etc/skel/.face
+|4,39,1,0,1554425983,"/etc/skel/.face"
+-'  1  0  /etc/skel/.face
+|4,39,1,0,1554425983,"/etc/skel/.face"
+-'  1  0  /etc/skel/.face
+|4,39,1,0,1554425983,"/etc/skel/.face"
+-'  1  0  /etc/skel/.face
+|4,39,1,0,1554425983,"/etc/skel/.face"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  117  0  /etc/skel/.bashrc
+|4,39,117,0,1554425974,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bashrc
+|4,39,1,0,1554425969,"/etc/skel/.bashrc"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+-'  1  0  /etc/skel/.bash_logout
+|4,39,1,0,1554425957,"/etc/skel/.bash_logout"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu
+	*	1554430776	0
+	"	1	0
+
+> /usr/share/applications/org.kde.drkonqi.desktop
+	*	1554430747	0
+	"	1	0
+
+> /etc/skel/.profile
+	*	1554425997	0
+	"	27	0
+
+> /etc/skel/.face
+	*	1554425986	0
+	"	36	0
+
+> /etc/skel/.bashrc
+	*	1554425973	0
+	"	117	0
+
+> /etc/skel/.bash_logout
+	*	1554425956	0
+	"	1	0
+
+> ~/NERD_tree_1
+	*	1554425882	0
+	"	9	0
+	.	1	0
+	+	1	0

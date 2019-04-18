@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=filipe_apps.sh
+Type=Link
+URL[$e]=file:$HOME/Documentos/FACOMP/script do linux facomp/filipe_apps.sh
+X-KDE-LastOpenedWith=org.kde.kate

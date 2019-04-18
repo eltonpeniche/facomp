@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=America/Belem
+ZoneinfoDir=/usr/share/zoneinfo
+Zonetab=/usr/share/zoneinfo/zone.tab

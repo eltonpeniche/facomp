@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE KSysGuardWorkSheet>
+<WorkSheet locked="1" title="Process Table" interval="2" columns="1" rows="1">
+ <host shell="" name="localhost" command="ksysguardd" port="-1"/>
+ <display units="1" sensorType="table" filterState="0" showUnit="0" ioUnits="1" row="0" ioInformation="5" unit="" title="Process Table" hostName="localhost" showCommandLineOptions="0" column="0" treeViewHeader="AAAA/wAAAAAAAAABAAAAAAAAAAEBAAAAAAAAAAAAAAAQ3HMAAAAKAAAABAAAAGQAAAAGAAAAZAAAAAcAAABkAAAAAgAAAGQAAAADAAAAZAAAAAwAAABkAAAADQAAAGQAAAAOAAAAZAAAAAgAAABkAAAACQAAAGQAAAL8AAAAEAEBAAEAAAAAAAAAAAAAAABk/////wAAAIEAAAAAAAAAEAAAAGQAAAABAAAAAAAAAGQAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAFUAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAFIAAAABAAAAAAAAAJkAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAPQAAAABAAAAAAAAA+gAAAAAZA==" version="6" class="ProcessController" normalizeCPUUsage="1" showTotals="1" rowSpan="1" showTooltips="1" columnSpan="1" sensorName="ps"/>
+</WorkSheet>

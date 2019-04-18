@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=facomp-livre.sh
+Type=Link
+URL[$e]=file:$HOME/Documentos/FACOMP/script do linux facomp/facomp-livre.sh
+X-KDE-LastOpenedWith=org.kde.kate

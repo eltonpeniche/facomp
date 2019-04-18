@@ -1,0 +1,18 @@
+[KFileDialog Settings]
+Recent Files[$e]=wallpaper_facomp01.jpg,file:///usr/share/wallpapers/facomp/wallpaper_facomp01.jpg
+Recent URLs[$e]=file:///usr/share/wallpapers/facomp/
+
+[KPropertiesDialog]
+Height 1080=456
+Width 1920=420
+
+[MainWindow]
+Height 1080=657
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABPgAAAKRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1272
+
+[Open-with settings]
+CompletionMode=1
+History=numlockx
