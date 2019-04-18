@@ -1,0 +1,47 @@
+editar arquivo host para ter o endereço certo do servidor com infomações válidas
+
+$ sudo nano /etc/hosts
+
+exemplo:
+    192.168.18.50 server.example.com server
+
+$ sudo apt install libpam-ldap nscd
+
+#APAGAR O i
+
+exemplo:
+    ldap://lab1.facomp.com
+
+exemplo:
+    dc=facomp, dc=com
+
+escolha versão 3
+
+make local root Databse admin[sim]
+
+Does the LDAP database require login[não]
+
+exemplo:
+    cn=admin,dc=facomp, dc=com
+
+LDAP root account password [SENHA DO SERVIDOR LDAP]
+
+$ sudo nano /etc/nsswitch.conf
+
+passwd  compat ldap #systemmd
+group   compat ldap #systemmd
+shadow  compat ldap
+
+sudo nano /etc/pam.d/common-session
+
+#session opcional pam_mkhomedir.so skel=/etc/skel umask=077
+session required pam_mkhomedir.so skel=/etc/skel umask=0022
+
+$ sudo service nscd restart
+
+para testar se está funcionando
+
+$ getent passwd
+
+para mudar a senha, logue-se na conta desejada e execute:
+$ passwd 

@@ -1,0 +1,29 @@
+sudo cp /home/aluno/.kde/share/config/kdeglobals  /usr/share/kubuntu-default-settings/kf5-settings/kdeglobals 
+
+kate  /usr/share/kubuntu-default-settings/kf5-settings/kdeglobals 
+
+[KDE Action Restrictions][$i]
+movable_toolbars=false 
+action/movable_toolbars=false
+action/kwin_rmb=false
+action/options_configure_keybinding=false
+action/fullscreen=false
+plasma-desktop/add_activities=false
+plasma/containment_actions=false
+plasma/containment_context_menu=false
+plasma/allow_configure_when_locked=false
+plasma/plasma-desktop/unlockedDesktop=false
+plasma/plasmashell/unlockedDesktop=false
+
+[KDE Resource Restrictions][$i]
+print/dialog=false
+wallpaper=false
+
+[Plasma Desktop][$i]
+plasma-desktop/scripting_console=false
+plasma-desktop/add_activities=false
+
+
+kate /home/aluno/.kde/share/config/kdeglobals 
+
+[$i]

@@ -1,0 +1,174 @@
+https://computingforgeeks.com/how-to-install-and-configure-openldap-ubuntu-18-04/
+
+https://computingforgeeks.com/how-to-install-and-configure-ldap-account-manager-on-ubuntu-18-04-ubuntu-16-04-lts/
+
+
+passo 1:
+
+configurar o nome da máquina:
+$ sudo nano /etc/hostname
+
+passo 2:
+
+configurar o arquivo hosts com infomações válidas
+
+$ sudo nano /etc/hosts
+
+exemplo:
+    192.168.18.50 server.example.com server
+
+Substitua server.example.com por seu nome de host/nome de domínio válido
+
+passo 3:
+instale pacotes LDAP executando os comandos abaixo:
+
+$ sudo apt update
+$ sudo apt -y install slapd ldap-utils
+
+Durante a instalação, você será solicitado a definir o LDAP admin password, fornecer a senha desejada e pressionar < OK>
+
+Confirme a senha e continue a instalação selecionando  <ok>.
+
+Você pode confirmar que sua instalação foi bem-sucedida usando o comando slapcat  para gerar o conteúdo do banco de dados SLAPD.
+
+$ slapcat
+
+passo 4:
+
+A próxima etapa é adicionar um DN base para usuários e grupos. Crie um arquivo basedn.ldif com o nome abaixo: 
+
+dn: ou=people,dc=example,dc=com
+objectClass: organizationalUnit
+ou: people
+
+dn: ou=groups,dc=example,dc=com
+objectClass: organizationalUnit
+ou: groups
+
+Substitua example and com por seus componentes de domínio corretos.
+
+Agora adicione o arquivo executando o comando:
+
+ldapadd -x -D cn=admin,dc=example,dc=com -W -f basedn.ldif
+# ldapadd -x -D cn=admin,dc=ora,dc=ufpa,dc=br -W -f basedn.ldif
+passo 5:
+
+Instale o servidor da Web Apache e o PHP:
+
+$ sudo apt -y install apache2 php php-cgi libapache2-mod-php php-mbstring php-common php-pear
+
+
+$ sudo a2enconf php7.2-cgi
+$ sudo systemctl reload apache2
+
+passo 6:
+
+Instalar o Gerenciador de Contas LDAP
+
+$ sudo apt -y install ldap-account-manager
+
+Quando terminar a instalação, é recomendável restringir o acesso ao painel da Web, permitindo apenas sub-redes locais confiáveis. Isso é opcional e você pode ignorá-lo.
+
+$ sudo vim /etc/apache2/conf-enabled/ldap-account-manager.conf
+
+Edite a linha  12  para comentar a linha "Require all granted"" adicionar sub-redes permitidas para acessar a interface de administração do Gerenciador de Contas LDAP.
+
+#Require all granted
+Require ip 127.0.0.1 192.168.10.0/24 192.168.18.0/24
+
+Reinicie o servidor da web apache depois de fazer a alteração:
+$ sudo systemctl restart apache2
+
+passo 7:
+
+configurar o gerenciador de contas LDAP
+Acesse a interface da Web do Gerenciador de contas LDAP a partir de uma rede de máquina confiável
+
+http://(server’s hostname or IP address)/lam
+
+O formulário de login do Gerenciador de contas LDAP será exibido. Precisamos definir nosso perfil do servidor LDAP clicando no [LAM configuration] canto superior direito.
+
+Então clique em Edit server profiles
+Isto irá pedir-lhe o nome do perfil LAM Password:
+Senha padrão é lam
+
+A primeira coisa a mudar é mudar a senha do perfil, isso é no final da  página Configurações gerais  .
+
+Em seguida é para definir o LDAP Server address e Tree suffix. Meu parece abaixo, você precisa usar seus componentes de domínio como definido no nome do host do servidor.
+
+Server address: idap://localhost:389
+activate TSL:   no
+tree suffix:    dc= exemple,dc=com 
+search limit:   -
+
+Defina o login do Painel especificando a conta do usuário administrador  e os componentes do domínio na seção "Configurações de segurança" 
+
+
+login method:   fixed list
+list of valid users:    cn=admin,dc=exemple,dc=com
+
+Mude para a  página "Tipos de conta" e defina os tipos de conta ativa Sufixos  LDAP  e  atributos de lista.
+
+users:
+LDAP suffix:    ou=People, dc=exemple,dc=com 
+
+groupś: 
+LDAP suffix:    ou=groups, dc=exemple,dc=com 
+
+Quando terminar as configurações, clique no  botão [Salvar]  na parte inferior da página.
+
+
+passo 8:
+
+adicionar contas de usuários e grupos com o Gerenciador de contas LDAP
+
+Faça o login com a conta admin painel do LAM para começar a gerenciar contas e grupos de usuários.
+
+Você usará os  links Usuários  e  Grupos  para gerenciar contas e grupos de usuários.
+
+Você precisa adicionar um grupo de usuários antes da conta de usuário real. Clique em  [Grupos] > [Novo Grupo]
+
+Dê ao grupo um nome (admins), ID de grupo opcional e descrição.
+
+aça o mesmo para adicionar outros grupos.
+
+Depois de ter os grupos de contas de usuários a serem adicionados, clique em  [Usuários] > [Novo usuário]  para adicionar uma nova conta de usuário ao seu servidor LDAP. Você tem três seções para gerenciamento de usuários:
+
+$ sudo chmod 777 /home
+
+para testar se está funcionando
+
+$ getent passwd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
