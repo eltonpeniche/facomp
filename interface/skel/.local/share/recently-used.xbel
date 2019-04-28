@@ -3,42 +3,22 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/bowser/Downloads/declaracao-residencia.docx" added="2019-04-04T14:53:23Z" modified="2019-04-04T15:15:45Z" visited="2019-04-04T14:53:26Z">
+  <bookmark href="file:///home/raoni/Downloads/ALAN%20SOUSA.pdf" added="2019-03-25T16:55:59Z" modified="2019-03-25T16:55:59Z" visited="2019-03-25T16:55:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-04T15:15:45Z" count="6"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-03-25T16:55:59Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bowser/Downloads/declaracaoresidencia.doc" added="2019-04-04T15:00:11Z" modified="2019-04-04T15:02:54Z" visited="2019-04-04T15:00:11Z">
+  <bookmark href="file:///home/raoni/Downloads/Declara%C3%A7%C3%A3o%20Anual%20Sa%C3%BAde%202018_Alan%20Sousa" added="2019-03-25T17:10:41Z" modified="2019-03-25T17:10:41Z" visited="2019-03-25T17:10:41.814915Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/msword"/>
+        <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-04T15:02:54Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/bowser/Downloads/declaracao_residencia.doc" added="2019-04-04T15:01:48Z" modified="2019-04-04T15:01:49Z" visited="2019-04-04T15:01:49Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/msword"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-04T15:01:49Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/bowser/Downloads/Declara%C3%A7%C3%A3o%20de%20Resid%C3%AAncia%20-%20oficial.doc" added="2019-04-04T15:10:03Z" modified="2019-04-04T15:15:42Z" visited="2019-04-04T15:10:03Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/msword"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-04T15:15:42Z" count="8"/>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2019-03-25T17:10:41Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

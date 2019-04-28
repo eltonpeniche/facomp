@@ -1,9 +1,17 @@
 ## unplanned
 
+BUG FIXES:
+* display info about function and function types whose parameters are
+  `interface{}` without truncating the function signature.
+  [[GH-2244]](https://github.com/fatih/vim-go/pull/2244)
+
+## 1.20 - (April 22, 2019)
+
 FEATURES:
 * ***gopls support!***
   * use gopls for autocompletion by default in Vim8 and Neovim.
   * use gopls for `:GoDef` by setting `g:go_def_mode='gopls'`.
+  * use gopls for `:GoInfo` by setting `g:go_info_mode='gopls'`.
 * Add support for golangci-lint.
   * set `g:go_metalinter_command='golangci-lint'` to use golangci-lint instead
     of gometalinter.
@@ -68,6 +76,11 @@ IMPROVEMENTS:
 * Do not jump to quickfix or location list window when bang is used for async
   jobs or linting.
   [[GH-2205]](https://github.com/fatih/vim-go/pull/2205)
+* Tab complete package names for commands from vendor directories and in
+  modules.
+  [[GH-2213]](https://github.com/fatih/vim-go/pull/2213)
+* Add support for `gopls` to `g:go_info_mode`.
+  [[GH-2224]](https://github.com/fatih/vim-go/pull/2224)
 
 BUG FIXES:
 * Fix opening of non-existent file from `:GoDeclsDir` when the current
@@ -103,6 +116,8 @@ BUG FIXES:
   [[GH-2192]](https://github.com/fatih/vim-go/pull/2192)
 * Handle runtime panics from `:GoRun` when using Neovim's terminal.
   [[GH-2209]](https://github.com/fatih/vim-go/pull/2209)
+* Fix adding tag option when a tag is added.
+  [[GH-2227]](https://github.com/fatih/vim-go/pull/2227)
 
 ## 1.19 - (November 4, 2018)
 

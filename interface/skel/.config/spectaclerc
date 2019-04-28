@@ -1,0 +1,10 @@
+[General]
+last-saved-to[$e]=$HOME/Imagens
+
+[GuiConfig]
+captureModeIndex=4
+cropRegion=516,252,360,213
+includeDecorations=true
+includePointer=false
+lastUsedSaveMode=0
+window-position=50,50

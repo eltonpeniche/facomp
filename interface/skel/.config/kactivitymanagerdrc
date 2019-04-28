@@ -1,5 +1,7 @@
 [activities]
-2e732771-81e6-431e-bed1-9de0995b0175=Padrão
+adc9d05a-c852-41f9-8e4e-f220c63023c8=Facomp
 
 [main]
-currentActivity=2e732771-81e6-431e-bed1-9de0995b0175
+currentActivity=adc9d05a-c852-41f9-8e4e-f220c63023c8
+runningActivities=adc9d05a-c852-41f9-8e4e-f220c63023c8
+stoppedActivities=

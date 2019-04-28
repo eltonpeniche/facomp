@@ -5,7 +5,7 @@
 "*****************************************************************************
 let vimplug_exists=expand('~/.vim/autoload/plug.vim')
 
-let g:vim_bootstrap_langs = "c,elixir,erlang,go,haskell,html,javascript,lisp,lua,php,python,ruby"
+let g:vim_bootstrap_langs = "c,elixir,erlang,go,haskell,html,javascript,lua,php,python,ruby"
 let g:vim_bootstrap_editor = "vim"				" nvim or vim
 
 if !filereadable(vimplug_exists)
@@ -15,7 +15,7 @@ if !filereadable(vimplug_exists)
   endif
   echo "Installing Vim-Plug..."
   echo ""
-  silent exec "!\curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim"
+  silent exec "!\curl -fLo " . vimplug_exists . " --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim"
   let g:not_finish_vimplug = "yes"
 
   autocmd VimEnter * PlugInstall
@@ -36,7 +36,6 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'airblade/vim-gitgutter'
 Plug 'vim-scripts/grep.vim'
 Plug 'vim-scripts/CSApprox'
-Plug 'bronson/vim-trailing-whitespace'
 Plug 'Raimondi/delimitMate'
 Plug 'majutsushi/tagbar'
 Plug 'w0rp/ale'
@@ -109,11 +108,6 @@ Plug 'mattn/emmet-vim'
 " javascript
 "" Javascript Bundle
 Plug 'jelera/vim-javascript-syntax'
-
-
-" lisp
-"" Lisp Bundle
-Plug 'vim-scripts/slimv.vim'
 
 
 " lua
@@ -314,6 +308,13 @@ let Grep_Skip_Dirs = '.git node_modules'
 
 " terminal emulation
 nnoremap <silent> <leader>sh :terminal<CR>
+
+
+"*****************************************************************************
+"" Commands
+"*****************************************************************************
+" remove trailing whitespaces
+command! FixWhitespace :%s/\s\+$//e
 
 "*****************************************************************************
 "" Functions
@@ -588,9 +589,6 @@ augroup vimrc-javascript
 augroup END
 
 
-" lisp
-
-
 " lua
 
 
@@ -675,6 +673,7 @@ nnoremap <leader>rit  :RInlineTemp<cr>
 vnoremap <leader>rrlv :RRenameLocalVariable<cr>
 vnoremap <leader>rriv :RRenameInstanceVariable<cr>
 vnoremap <leader>rem  :RExtractMethod<cr>
+
 
 
 "*****************************************************************************

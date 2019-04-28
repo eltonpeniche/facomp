@@ -29,7 +29,13 @@ function! s:init()
       call airline#util#warning(printf('Could not resolve airline theme "%s". Themes have been migrated to github.com/vim-airline/vim-airline-themes.', g:airline_theme))
       let g:airline_theme = 'dark'
     endtry
-    silent call airline#switch_theme(g:airline_theme)
+    try
+      silent call airline#switch_theme(g:airline_theme)
+    catch
+      call airline#util#warning(printf('Could not find airline theme "%s".', g:airline_theme))
+      let g:airline_theme = 'dark'
+      silent call airline#switch_theme(g:airline_theme)
+    endtry
   else
     let g:airline_theme = 'dark'
     silent call s:on_colorscheme_changed()
@@ -189,14 +195,18 @@ function! s:airline_theme(...)
   endif
 endfunction
 
-function! s:airline_refresh()
+function! s:airline_refresh(...)
+  " a:1, fast refresh, do not reload the theme
+  let fast=!empty(get(a:000, 0, 0))
   if !exists("#airline")
     " disabled
     return
   endif
   call airline#util#doautocmd('AirlineBeforeRefresh')
   call airline#highlighter#reset_hlcache()
-  call airline#load_theme()
+  if !fast
+    call airline#load_theme()
+  endif
   call airline#update_statusline()
   call airline#update_tabline()
 endfunction
@@ -249,7 +259,7 @@ endfunction
 command! -bar -nargs=? -complete=customlist,<sid>get_airline_themes AirlineTheme call <sid>airline_theme(<f-args>)
 command! -bar AirlineToggleWhitespace call airline#extensions#whitespace#toggle()
 command! -bar AirlineToggle  call s:airline_toggle()
-command! -bar AirlineRefresh call s:airline_refresh()
+command! -bar -bang AirlineRefresh call s:airline_refresh(<q-bang>)
 command! AirlineExtensions   call s:airline_extensions()
 
 call airline#init#bootstrap()

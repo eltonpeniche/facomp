@@ -1,6 +1,6 @@
 [Devices][/org/freedesktop/UDisks2/block_devices/loop0]
 Icon=drive-harddisk
-LastNameSeen=sanity-squashfs-078845697
+LastNameSeen=Dispositivo virtual
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda1]
@@ -19,4 +19,15 @@ LastSeenMounted=true
 EverMounted=true
 Icon=drive-removable-media-usb
 LastNameSeen=EltonPeniche
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb4]
+Icon=drive-removable-media-usb
+LastNameSeen=Kubuntu 18.04.1 LTS amd64
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sr0]
+EverMounted=true
+Icon=media-optical-data
+LastNameSeen=CCSA_X64FRE_PT-BR_DV5
 LastSeenMounted=false

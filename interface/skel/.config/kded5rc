@@ -1,5 +1,5 @@
 [Module-appmenu]
-autoload=true
+autoload=false
 
 [Module-baloosearchmodule]
 autoload=true

@@ -26,6 +26,8 @@ apt install codelite -y
 apt install codeblocks -y
 apt install idle -y
 
+apt install vim -y 
+
 #netbens apache
 wget -c https://www-eu.apache.org/dist/incubator/netbeans/incubating-netbeans/incubating-11.0/incubating-netbeans-11.0-bin.zip
 unzip incubating-netbeans*.zip -d /opt/

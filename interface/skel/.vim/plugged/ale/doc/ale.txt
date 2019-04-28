@@ -309,6 +309,9 @@ by default.
 
 |g:ale_fix_on_save| - Fix files when they are saved.
 
+Fixers can be disabled on save with |g:ale_fix_on_save_ignore|. They will
+still be run when you manually run |ALEFix|.
+
 
 ===============================================================================
 5. Language Server Protocol Support                                   *ale-lsp*
@@ -318,40 +321,44 @@ servers. LSP linters can be used in combination with any other linter, and
 will automatically connect to LSP servers when needed. ALE also supports
 `tsserver` for TypeScript, which uses a different but very similar protocol.
 
-ALE supports the following LSP/tsserver features:
-
-1. Diagnostics/linting - Enabled via selecting linters as usual.
-2. Completion
-3. Go to definition
-
 
 -------------------------------------------------------------------------------
 5.1 Completion                                                 *ale-completion*
 
-ALE offers limited support for automatic completion of code while you type.
+ALE offers support for automatic completion of code while you type.
 Completion is only supported while at least one LSP linter is enabled. ALE
 will only suggest symbols provided by the LSP servers.
 
-Suggestions will be made while you type after completion is enabled.
-Completion can be enabled by setting |g:ale_completion_enabled| to `1`.  This
-setting must be set to `1` before ALE is loaded. The delay for completion can
-be configured with |g:ale_completion_delay|. ALE will only suggest so many
-possible matches for completion. The maximum number of items can be controlled
-with |g:ale_completion_max_suggestions|.
+                                                     *ale-deoplete-integration*
+
+ALE integrates with Deoplete for offering automatic completion data. ALE's
+completion source for Deoplete is named `'ale'`, and should enabled
+automatically if Deoplete is enabled and configured correctly. Deoplete
+integration should not be combined with ALE's own implementation.
+
+ALE also offers its own completion implementation, which does not require any
+other plugins. Suggestions will be made while you type after completion is
+enabled.  Completion can be enabled by setting |g:ale_completion_enabled| to
+`1`. This setting must be set to `1` before ALE is loaded. The delay for
+completion can be configured with |g:ale_completion_delay|.
+
+ALE will only suggest so many possible matches for completion. The maximum
+number of items can be controlled with |g:ale_completion_max_suggestions|.
 
 If you don't like some of the suggestions you see, you can filter them out
 with |g:ale_completion_excluded_words| or |b:ale_completion_excluded_words|.
 
 The |ALEComplete| command can be used to show completion suggestions manually,
-even when |g:ale_completion_enabled| is set to `0`.
+even when |g:ale_completion_enabled| is set to `0`. For manually requesting
+completion information with Deoplete, consult Deoplete's documentation.
 
                                                *ale-completion-completeopt-bug*
 
-Automatic completion replaces |completeopt| before opening the omnicomplete
-menu with <C-x><C-o>. In some versions of Vim, the value set for the option
-will not be respected. If you experience issues with Vim automatically
-inserting text while you type, set the following option in vimrc, and your
-issues should go away. >
+ALE Automatic completion implementation replaces |completeopt| before opening
+the omnicomplete menu with <C-x><C-o>. In some versions of Vim, the value set
+for the option will not be respected. If you experience issues with Vim
+automatically inserting text while you type, set the following option in
+vimrc, and your issues should go away. >
 
   set completeopt=menu,menuone,preview,noselect,noinsert
 <
@@ -611,8 +618,8 @@ g:ale_cursor_detail                                       *g:ale_cursor_detail*
   loaded for messages to be displayed. See |ale-lint-settings-on-startup|.
 
 
-g:ale_disable_lsp                                            *g:ale_disable_lsp*
-                                                             *b:ale_disable_lsp*
+g:ale_disable_lsp                                           *g:ale_disable_lsp*
+                                                            *b:ale_disable_lsp*
 
   Type: |Number|
   Default: `0`
@@ -770,6 +777,43 @@ b:ale_fix_on_save                                           *b:ale_fix_on_save*
   Fixing files can be disabled or enabled for individual buffers by setting
   `b:ale_fix_on_save` to `0` or `1`.
 
+  Some fixers can be excluded from being run automatically when you save files
+  with the |g:ale_fix_on_save_ignore| setting.
+
+
+g:ale_fix_on_save_ignore                             *g:ale_fix_on_save_ignore*
+b:ale_fix_on_save_ignore                             *b:ale_fix_on_save_ignore*
+
+  Type: |Dictionary| or |List|
+  Default: `{}`
+
+  Given a |Dictionary| mapping filetypes to |Lists| of fixers to ignore, or
+  just a |List| of fixers to ignore, exclude those fixers from being run
+  automatically when files are saved.
+
+  You can disable some fixers in your ftplugin file: >
+
+  " Disable fixers 'b' and 'c' when fixing on safe for this buffer.
+  let b:ale_fix_on_save_ignore = ['b', 'c']
+  " Alternatively, define ignore lists for different filetypes.
+  let b:ale_fix_on_save_ignore = {'foo': ['b'], 'bar': ['c']}
+<
+  You can disable some fixers globally per filetype like so: >
+
+  let g:ale_fixers = {'foo': ['a', 'b'], 'bar': ['c', 'd']}
+  let g:ale_fix_on_save = 1
+  " For filetype `foo.bar`, only fixers 'b' and 'd' will be run on save.
+  let g:ale_fix_on_save_ignore = {'foo': ['a'], 'bar': ['c']}
+  " Alternatively, disable these fixers on save for all filetypes.
+  let g:ale_fix_on_save_ignore = ['a', 'c']
+<
+  You can ignore fixers based on matching |Funcref| values too: >
+
+  let g:AddBar = {buffer, lines -> lines + ['bar']}
+  let g:ale_fixers = {'foo': g:AddBar}
+  " The lambda fixer will be ignored, as it will be found in the ignore list.
+  let g:ale_fix_on_save_ignore = [g:AddBar]
+<
 
 g:ale_history_enabled                                   *g:ale_history_enabled*
 
@@ -1864,8 +1908,10 @@ documented in additional help files.
     uncrustify............................|ale-c-uncrustify|
     ccls..................................|ale-c-ccls|
   chef....................................|ale-chef-options|
+    cookstyle.............................|ale-chef-cookstyle|
     foodcritic............................|ale-chef-foodcritic|
   clojure.................................|ale-clojure-options|
+    clj-kondo.............................|ale-clojure-clj-kondo|
     joker.................................|ale-clojure-joker|
   cloudformation..........................|ale-cloudformation-options|
     cfn-python-lint.......................|ale-cloudformation-cfn-python-lint|
@@ -1891,6 +1937,7 @@ documented in additional help files.
     mcsc..................................|ale-cs-mcsc|
     uncrustify............................|ale-cs-uncrustify|
   css.....................................|ale-css-options|
+    fecs..................................|ale-css-fecs|
     prettier..............................|ale-css-prettier|
     stylelint.............................|ale-css-stylelint|
   cuda....................................|ale-cuda-options|
@@ -1933,15 +1980,16 @@ documented in additional help files.
     glslang...............................|ale-glsl-glslang|
     glslls................................|ale-glsl-glslls|
   go......................................|ale-go-options|
+    bingo.................................|ale-go-bingo|
     gobuild...............................|ale-go-gobuild|
     gofmt.................................|ale-go-gofmt|
-    golint................................|ale-go-golint|
-    govet.................................|ale-go-govet|
-    gometalinter..........................|ale-go-gometalinter|
-    staticcheck...........................|ale-go-staticcheck|
-    golangserver..........................|ale-go-golangserver|
     golangci-lint.........................|ale-go-golangci-lint|
-    bingo.................................|ale-go-bingo|
+    golangserver..........................|ale-go-golangserver|
+    golint................................|ale-go-golint|
+    gometalinter..........................|ale-go-gometalinter|
+    gopls.................................|ale-go-gopls|
+    govet.................................|ale-go-govet|
+    staticcheck...........................|ale-go-staticcheck|
   graphql.................................|ale-graphql-options|
     eslint................................|ale-graphql-eslint|
     gqlint................................|ale-graphql-gqlint|
@@ -1967,6 +2015,7 @@ documented in additional help files.
   hcl.....................................|ale-hcl-options|
     terraform-fmt.........................|ale-hcl-terraform-fmt|
   html....................................|ale-html-options|
+    fecs..................................|ale-html-fecs|
     htmlhint..............................|ale-html-htmlhint|
     tidy..................................|ale-html-tidy|
     prettier..............................|ale-html-prettier|
@@ -1982,9 +2031,11 @@ documented in additional help files.
     google-java-format....................|ale-java-google-java-format|
     pmd...................................|ale-java-pmd|
     javalsp...............................|ale-java-javalsp|
+    eclipselsp............................|ale-java-eclipselsp|
     uncrustify............................|ale-java-uncrustify|
   javascript..............................|ale-javascript-options|
     eslint................................|ale-javascript-eslint|
+    fecs..................................|ale-javascript-fecs|
     flow..................................|ale-javascript-flow|
     importjs..............................|ale-javascript-importjs|
     jscs..................................|ale-javascript-jscs|
@@ -2067,6 +2118,7 @@ documented in additional help files.
   pony....................................|ale-pony-options|
     ponyc.................................|ale-pony-ponyc|
   powershell............................|ale-powershell-options|
+    powershell..........................|ale-powershell-powershell|
     psscriptanalyzer....................|ale-powershell-psscriptanalyzer|
   prolog..................................|ale-prolog-options|
     swipl.................................|ale-prolog-swipl|
@@ -2101,6 +2153,7 @@ documented in additional help files.
     qmlfmt................................|ale-qml-qmlfmt|
   r.......................................|ale-r-options|
     lintr.................................|ale-r-lintr|
+    styler................................|ale-r-styler|
   reasonml................................|ale-reasonml-options|
     merlin................................|ale-reasonml-merlin|
     ols...................................|ale-reasonml-ols|
@@ -2151,6 +2204,8 @@ documented in additional help files.
     stylelint.............................|ale-stylus-stylelint|
   sugarss.................................|ale-sugarss-options|
     stylelint.............................|ale-sugarss-stylelint|
+  swift...................................|ale-swift-options|
+    sourcekitlsp..........................|ale-swift-sourcekitlsp|
   tcl.....................................|ale-tcl-options|
     nagelfar..............................|ale-tcl-nagelfar|
   terraform...............................|ale-terraform-options|
@@ -2159,6 +2214,7 @@ documented in additional help files.
   tex.....................................|ale-tex-options|
     chktex................................|ale-tex-chktex|
     lacheck...............................|ale-tex-lacheck|
+    latexindent...........................|ale-tex-latexindent|
   texinfo.................................|ale-texinfo-options|
     write-good............................|ale-texinfo-write-good|
   text....................................|ale-text-options|
@@ -2537,6 +2593,14 @@ ale#Env(variable_name, value)                                       *ale#Env()*
     :echo string(ale#Env('VAR', 'some value') . 'command')
     'VAR=''some value'' command'      # On Linux or Mac OSX
     'set VAR="some value" && command' # On Windows
+
+
+ale#Has(feature)                                                    *ale#Has()*
+
+  Return `1` if ALE supports a given feature, like |has()| for Vim features.
+
+  ALE versions can be checked with version strings in the format
+  `ale#Has('ale-x.y.z')`, such as `ale#Has('ale-2.4.0')`.
 
 
 ale#Pad(string)                                                     *ale#Pad()*

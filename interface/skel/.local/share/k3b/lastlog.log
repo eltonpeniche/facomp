@@ -1,0 +1,385 @@
+[System] K3b Version: 17.12.3
+[System] KDE Version: 5.44.0
+[System] Qt Version:  5.9.5
+[System] Kernel:      4.15.0-36-generic
+[Devices] hp CDDVDW SN-208BB HH05 (/dev/sr0, CD-R, CD-RW, CD-ROM, DVD-ROM, DVD-R, DVD-RW, DVD-R DL, DVD+R, DVD+RW, DVD+R DL) [DVD-ROM, DVD-R sequencial, DVD-R de dupla camada sequencial, DVD-R de dupla camada com salto, DVD-RAM, DVD-RW em sobrescrita restrita, DVD-RW sequencial, DVD+RW, DVD+R, DVD+R de dupla camada, CD-ROM, CD-R, CD-RW] [SAO, TAO, RAW, SAO/R96P, SAO/R96R, RAW/R16, RAW/R96P, RAW/R96R, Sobrescrita restrita, Salto de camada] [%7]
+[Used versions] growisofs: 7.1
+[Burned media] DVD+RW
+[growisofs command:] /usr/bin/growisofs -Z /dev/sr0=/dev/fd/0 -use-the-force-luke=notray -use-the-force-luke=tty -use-the-force-luke=4gms -use-the-force-luke=tracksize:2095475 -speed=4 -use-the-force-luke=bufsize:32m
+[growisofs] Executing 'builtin_dd if=/dev/fd/0 of=/dev/sr0 obs=32k seek=0'
+[growisofs] /dev/sr0: "Current Write Speed" is 4.1x1352KBps.
+[growisofs]    16515072/4291532800 ( 0.4%) @2.5x, remaining 30:11 RBU 100.0% UBU   4.6%
+[growisofs]    27852800/4291532800 ( 0.6%) @2.5x, remaining 25:30 RBU 100.0% UBU  99.7%
+[growisofs]    39157760/4291532800 ( 0.9%) @2.4x, remaining 23:31 RBU 100.0% UBU  99.7%
+[growisofs]    50495488/4291532800 ( 1.2%) @2.5x, remaining 23:47 RBU 100.0% UBU  99.7%
+[growisofs]    61833216/4291532800 ( 1.4%) @2.5x, remaining 22:48 RBU 100.0% UBU  99.7%
+[growisofs]    73138176/4291532800 ( 1.7%) @2.4x, remaining 22:06 RBU 100.0% UBU  99.7%
+[growisofs]    84475904/4291532800 ( 2.0%) @2.5x, remaining 22:24 RBU 100.0% UBU  99.7%
+[growisofs]    95813632/4291532800 ( 2.2%) @2.5x, remaining 21:53 RBU 100.0% UBU 100.0%
+[growisofs]   107118592/4291532800 ( 2.5%) @2.4x, remaining 21:29 RBU 100.0% UBU  99.7%
+[growisofs]   118456320/4291532800 ( 2.8%) @2.5x, remaining 21:43 RBU 100.0% UBU  99.7%
+[growisofs]   129794048/4291532800 ( 3.0%) @2.5x, remaining 21:22 RBU 100.0% UBU  99.7%
+[growisofs]   141099008/4291532800 ( 3.3%) @2.4x, remaining 21:04 RBU 100.0% UBU  99.7%
+[growisofs]   152436736/4291532800 ( 3.6%) @2.5x, remaining 21:16 RBU 100.0% UBU  99.7%
+[growisofs]   163774464/4291532800 ( 3.8%) @2.5x, remaining 21:00 RBU 100.0% UBU  99.7%
+[growisofs]   175079424/4291532800 ( 4.1%) @2.4x, remaining 20:46 RBU 100.0% UBU  99.7%
+[growisofs]   186417152/4291532800 ( 4.3%) @2.5x, remaining 20:55 RBU 100.0% UBU 100.0%
+[growisofs]   197754880/4291532800 ( 4.6%) @2.5x, remaining 20:42 RBU 100.0% UBU  99.7%
+[growisofs]   209059840/4291532800 ( 4.9%) @2.4x, remaining 20:30 RBU 100.0% UBU  99.7%
+[growisofs]   220397568/4291532800 ( 5.1%) @2.5x, remaining 20:37 RBU 100.0% UBU  99.7%
+[growisofs]   231735296/4291532800 ( 5.4%) @2.5x, remaining 20:26 RBU 100.0% UBU  99.7%
+[growisofs]   243040256/4291532800 ( 5.7%) @2.4x, remaining 20:16 RBU 100.0% UBU  99.7%
+[growisofs]   254377984/4291532800 ( 5.9%) @2.5x, remaining 20:22 RBU 100.0% UBU  99.7%
+[growisofs]   265715712/4291532800 ( 6.2%) @2.5x, remaining 20:12 RBU 100.0% UBU  99.7%
+[growisofs]   277020672/4291532800 ( 6.5%) @2.4x, remaining 20:02 RBU 100.0% UBU  99.7%
+[growisofs]   288358400/4291532800 ( 6.7%) @2.5x, remaining 20:07 RBU 100.0% UBU 100.0%
+[growisofs]   299696128/4291532800 ( 7.0%) @2.5x, remaining 19:58 RBU 100.0% UBU  99.7%
+[growisofs]   311001088/4291532800 ( 7.2%) @2.4x, remaining 20:03 RBU 100.0% UBU  99.7%
+[growisofs]   322338816/4291532800 ( 7.5%) @2.5x, remaining 19:54 RBU 100.0% UBU  99.7%
+[growisofs]   333676544/4291532800 ( 7.8%) @2.5x, remaining 19:46 RBU 100.0% UBU  99.7%
+[growisofs]   344981504/4291532800 ( 8.0%) @2.4x, remaining 19:49 RBU 100.0% UBU  99.7%
+[growisofs]   356319232/4291532800 ( 8.3%) @2.5x, remaining 19:41 RBU 100.0% UBU 100.0%
+[growisofs]   367656960/4291532800 ( 8.6%) @2.5x, remaining 19:33 RBU 100.0% UBU  99.7%
+[growisofs]   378961920/4291532800 ( 8.8%) @2.4x, remaining 19:36 RBU 100.0% UBU  99.7%
+[growisofs]   390299648/4291532800 ( 9.1%) @2.5x, remaining 19:29 RBU 100.0% UBU  99.7%
+[growisofs]   401637376/4291532800 ( 9.4%) @2.5x, remaining 19:22 RBU 100.0% UBU  99.7%
+[growisofs]   412942336/4291532800 ( 9.6%) @2.4x, remaining 19:24 RBU 100.0% UBU  99.7%
+[growisofs]   424280064/4291532800 ( 9.9%) @2.5x, remaining 19:17 RBU 100.0% UBU  99.7%
+[growisofs]   435617792/4291532800 (10.2%) @2.5x, remaining 19:10 RBU 100.0% UBU 100.0%
+[growisofs]   446922752/4291532800 (10.4%) @2.4x, remaining 19:12 RBU 100.0% UBU  99.7%
+[growisofs]   458260480/4291532800 (10.7%) @2.5x, remaining 19:05 RBU 100.0% UBU  99.7%
+[growisofs]   469598208/4291532800 (10.9%) @2.5x, remaining 18:59 RBU 100.0% UBU  99.7%
+[growisofs]   480903168/4291532800 (11.2%) @2.4x, remaining 19:01 RBU 100.0% UBU  99.7%
+[growisofs]   492240896/4291532800 (11.5%) @2.5x, remaining 18:54 RBU 100.0% UBU  99.7%
+[growisofs]   503578624/4291532800 (11.7%) @2.5x, remaining 18:48 RBU 100.0% UBU  99.7%
+[growisofs]   514883584/4291532800 (12.0%) @2.4x, remaining 18:49 RBU 100.0% UBU  99.7%
+[growisofs]   526221312/4291532800 (12.3%) @2.5x, remaining 18:43 RBU 100.0% UBU  99.7%
+[growisofs]   537559040/4291532800 (12.5%) @2.5x, remaining 18:37 RBU 100.0% UBU 100.0%
+[growisofs]   548864000/4291532800 (12.8%) @2.4x, remaining 18:38 RBU 100.0% UBU  99.7%
+[growisofs]   560201728/4291532800 (13.1%) @2.5x, remaining 18:32 RBU 100.0% UBU 100.0%
+[growisofs]   571539456/4291532800 (13.3%) @2.5x, remaining 18:26 RBU 100.0% UBU  99.7%
+[growisofs]   582844416/4291532800 (13.6%) @2.4x, remaining 18:27 RBU 100.0% UBU 100.0%
+[growisofs]   594182144/4291532800 (13.8%) @2.5x, remaining 18:21 RBU 100.0% UBU 100.0%
+[growisofs]   605519872/4291532800 (14.1%) @2.5x, remaining 18:15 RBU 100.0% UBU  99.7%
+[growisofs]   616824832/4291532800 (14.4%) @2.4x, remaining 18:16 RBU 100.0% UBU  99.7%
+[growisofs]   628162560/4291532800 (14.6%) @2.5x, remaining 18:10 RBU 100.0% UBU  99.7%
+[growisofs]   639500288/4291532800 (14.9%) @2.5x, remaining 18:05 RBU 100.0% UBU  99.7%
+[growisofs]   650805248/4291532800 (15.2%) @2.4x, remaining 18:05 RBU 100.0% UBU 100.0%
+[growisofs]   662142976/4291532800 (15.4%) @2.5x, remaining 17:59 RBU 100.0% UBU  99.7%
+[growisofs]   673480704/4291532800 (15.7%) @2.5x, remaining 17:54 RBU 100.0% UBU  99.7%
+[growisofs]   684785664/4291532800 (16.0%) @2.4x, remaining 17:54 RBU 100.0% UBU 100.0%
+[growisofs]   696123392/4291532800 (16.2%) @2.5x, remaining 17:49 RBU 100.0% UBU  99.7%
+[growisofs]   707461120/4291532800 (16.5%) @2.5x, remaining 17:43 RBU 100.0% UBU  99.7%
+[growisofs]   718766080/4291532800 (16.7%) @2.4x, remaining 17:43 RBU 100.0% UBU  99.7%
+[growisofs]   730103808/4291532800 (17.0%) @2.5x, remaining 17:38 RBU 100.0% UBU  99.7%
+[growisofs]   741441536/4291532800 (17.3%) @2.5x, remaining 17:33 RBU 100.0% UBU  99.7%
+[growisofs]   752746496/4291532800 (17.5%) @2.4x, remaining 17:33 RBU 100.0% UBU  99.7%
+[growisofs]   764084224/4291532800 (17.8%) @2.5x, remaining 17:27 RBU 100.0% UBU  99.7%
+[growisofs]   775421952/4291532800 (18.1%) @2.5x, remaining 17:22 RBU 100.0% UBU  99.7%
+[growisofs]   786726912/4291532800 (18.3%) @2.4x, remaining 17:22 RBU 100.0% UBU  99.7%
+[growisofs]   798064640/4291532800 (18.6%) @2.5x, remaining 17:17 RBU 100.0% UBU 100.0%
+[growisofs]   809402368/4291532800 (18.9%) @2.5x, remaining 17:12 RBU 100.0% UBU  99.7%
+[growisofs]   820707328/4291532800 (19.1%) @2.4x, remaining 17:11 RBU 100.0% UBU  99.7%
+[growisofs]   832045056/4291532800 (19.4%) @2.5x, remaining 17:06 RBU 100.0% UBU  99.7%
+[growisofs]   843382784/4291532800 (19.7%) @2.5x, remaining 17:02 RBU 100.0% UBU  99.7%
+[growisofs]   854687744/4291532800 (19.9%) @2.4x, remaining 17:01 RBU 100.0% UBU 100.0%
+[growisofs]   866025472/4291532800 (20.2%) @2.5x, remaining 16:56 RBU 100.0% UBU  99.7%
+[growisofs]   877363200/4291532800 (20.4%) @2.5x, remaining 16:51 RBU 100.0% UBU  99.7%
+[growisofs]   888668160/4291532800 (20.7%) @2.4x, remaining 16:50 RBU 100.0% UBU  99.7%
+[growisofs]   900005888/4291532800 (21.0%) @2.5x, remaining 16:46 RBU 100.0% UBU  99.7%
+[growisofs]   911343616/4291532800 (21.2%) @2.5x, remaining 16:41 RBU 100.0% UBU  99.7%
+[growisofs]   922681344/4291532800 (21.5%) @2.5x, remaining 16:40 RBU 100.0% UBU  99.7%
+[growisofs]   933986304/4291532800 (21.8%) @2.4x, remaining 16:35 RBU 100.0% UBU  99.7%
+[growisofs]   945324032/4291532800 (22.0%) @2.5x, remaining 16:31 RBU 100.0% UBU 100.0%
+[growisofs]   956661760/4291532800 (22.3%) @2.5x, remaining 16:30 RBU 100.0% UBU  99.7%
+[growisofs]   967966720/4291532800 (22.6%) @2.4x, remaining 16:25 RBU 100.0% UBU  99.7%
+[growisofs]   979304448/4291532800 (22.8%) @2.5x, remaining 16:20 RBU 100.0% UBU  99.7%
+[growisofs]   990642176/4291532800 (23.1%) @2.5x, remaining 16:19 RBU 100.0% UBU 100.0%
+[growisofs]  1001947136/4291532800 (23.3%) @2.4x, remaining 16:15 RBU 100.0% UBU  99.7%
+[growisofs]  1013284864/4291532800 (23.6%) @2.5x, remaining 16:10 RBU 100.0% UBU 100.0%
+[growisofs]  1024589824/4291532800 (23.9%) @2.4x, remaining 16:09 RBU 100.0% UBU  99.7%
+[growisofs]  1035927552/4291532800 (24.1%) @2.5x, remaining 16:04 RBU 100.0% UBU  99.7%
+[growisofs]  1047265280/4291532800 (24.4%) @2.5x, remaining 16:00 RBU 100.0% UBU  99.7%
+[growisofs]  1058570240/4291532800 (24.7%) @2.4x, remaining 15:58 RBU 100.0% UBU 100.0%
+[growisofs]  1069907968/4291532800 (24.9%) @2.5x, remaining 15:54 RBU 100.0% UBU  99.7%
+[growisofs]  1081245696/4291532800 (25.2%) @2.5x, remaining 15:50 RBU 100.0% UBU  99.7%
+[growisofs]  1092550656/4291532800 (25.5%) @2.4x, remaining 15:48 RBU 100.0% UBU 100.0%
+[growisofs]  1103888384/4291532800 (25.7%) @2.5x, remaining 15:44 RBU 100.0% UBU 100.0%
+[growisofs]  1115226112/4291532800 (26.0%) @2.5x, remaining 15:39 RBU 100.0% UBU 100.0%
+[growisofs]  1126531072/4291532800 (26.3%) @2.4x, remaining 15:38 RBU 100.0% UBU 100.0%
+[growisofs]  1137868800/4291532800 (26.5%) @2.5x, remaining 15:34 RBU 100.0% UBU 100.0%
+[growisofs]  1149206528/4291532800 (26.8%) @2.5x, remaining 15:29 RBU 100.0% UBU 100.0%
+[growisofs]  1160511488/4291532800 (27.0%) @2.4x, remaining 15:28 RBU 100.0% UBU  99.7%
+[growisofs]  1171849216/4291532800 (27.3%) @2.5x, remaining 15:23 RBU 100.0% UBU  99.7%
+[growisofs]  1183186944/4291532800 (27.6%) @2.5x, remaining 15:19 RBU 100.0% UBU  99.7%
+[growisofs]  1194491904/4291532800 (27.8%) @2.4x, remaining 15:17 RBU 100.0% UBU 100.0%
+[growisofs]  1205829632/4291532800 (28.1%) @2.5x, remaining 15:13 RBU 100.0% UBU  99.7%
+[growisofs]  1217167360/4291532800 (28.4%) @2.5x, remaining 15:09 RBU 100.0% UBU  99.7%
+[growisofs]  1228472320/4291532800 (28.6%) @2.4x, remaining 15:07 RBU 100.0% UBU 100.0%
+[growisofs]  1239810048/4291532800 (28.9%) @2.5x, remaining 15:03 RBU 100.0% UBU  99.7%
+[growisofs]  1251147776/4291532800 (29.2%) @2.5x, remaining 14:59 RBU 100.0% UBU 100.0%
+[growisofs]  1262452736/4291532800 (29.4%) @2.4x, remaining 14:57 RBU 100.0% UBU  99.7%
+[growisofs]  1273790464/4291532800 (29.7%) @2.5x, remaining 14:53 RBU 100.0% UBU 100.0%
+[growisofs]  1285128192/4291532800 (29.9%) @2.5x, remaining 14:48 RBU 100.0% UBU  99.7%
+[growisofs]  1296433152/4291532800 (30.2%) @2.4x, remaining 14:47 RBU 100.0% UBU 100.0%
+[growisofs]  1307770880/4291532800 (30.5%) @2.5x, remaining 14:42 RBU 100.0% UBU  99.7%
+[growisofs]  1319108608/4291532800 (30.7%) @2.5x, remaining 14:38 RBU 100.0% UBU  99.7%
+[growisofs]  1330413568/4291532800 (31.0%) @2.4x, remaining 14:36 RBU 100.0% UBU  99.7%
+[growisofs]  1341751296/4291532800 (31.3%) @2.5x, remaining 14:32 RBU 100.0% UBU 100.0%
+[growisofs]  1353089024/4291532800 (31.5%) @2.5x, remaining 14:28 RBU 100.0% UBU  99.7%
+[growisofs]  1364393984/4291532800 (31.8%) @2.4x, remaining 14:26 RBU 100.0% UBU 100.0%
+[growisofs]  1375731712/4291532800 (32.1%) @2.5x, remaining 14:22 RBU 100.0% UBU  99.7%
+[growisofs]  1387036672/4291532800 (32.3%) @2.4x, remaining 14:18 RBU 100.0% UBU  99.7%
+[growisofs]  1398374400/4291532800 (32.6%) @2.5x, remaining 14:16 RBU 100.0% UBU  99.7%
+[growisofs]  1409712128/4291532800 (32.8%) @2.5x, remaining 14:12 RBU 100.0% UBU  99.7%
+[growisofs]  1421017088/4291532800 (33.1%) @2.4x, remaining 14:08 RBU 100.0% UBU  99.7%
+[growisofs]  1432354816/4291532800 (33.4%) @2.5x, remaining 14:06 RBU 100.0% UBU  99.7%
+[growisofs]  1443692544/4291532800 (33.6%) @2.5x, remaining 14:02 RBU 100.0% UBU  99.7%
+[growisofs]  1454997504/4291532800 (33.9%) @2.4x, remaining 13:58 RBU 100.0% UBU  99.7%
+[growisofs]  1466335232/4291532800 (34.2%) @2.4x, remaining 13:56 RBU 100.0% UBU  99.7%
+[growisofs]  1477672960/4291532800 (34.4%) @2.5x, remaining 13:52 RBU 100.0% UBU  99.7%
+[growisofs]  1488977920/4291532800 (34.7%) @2.4x, remaining 13:48 RBU 100.1% UBU  99.7%
+[growisofs]  1500315648/4291532800 (35.0%) @2.4x, remaining 13:46 RBU 100.0% UBU 100.0%
+[growisofs]  1511653376/4291532800 (35.2%) @2.5x, remaining 13:42 RBU 100.0% UBU  99.7%
+[growisofs]  1522991104/4291532800 (35.5%) @2.5x, remaining 13:38 RBU 100.0% UBU 100.0%
+[growisofs]  1534296064/4291532800 (35.8%) @2.4x, remaining 13:35 RBU 100.0% UBU  99.7%
+[growisofs]  1545633792/4291532800 (36.0%) @2.5x, remaining 13:31 RBU 100.0% UBU  99.7%
+[growisofs]  1556971520/4291532800 (36.3%) @2.5x, remaining 13:27 RBU 100.0% UBU  99.7%
+[growisofs]  1568276480/4291532800 (36.5%) @2.4x, remaining 13:25 RBU 100.0% UBU  99.7%
+[growisofs]  1579614208/4291532800 (36.8%) @2.5x, remaining 13:21 RBU 100.0% UBU 100.0%
+[growisofs]  1590951936/4291532800 (37.1%) @2.5x, remaining 13:19 RBU 100.0% UBU 100.0%
+[growisofs]  1602289664/4291532800 (37.3%) @2.5x, remaining 13:15 RBU 100.0% UBU  99.7%
+[growisofs]  1613594624/4291532800 (37.6%) @2.4x, remaining 13:11 RBU 100.0% UBU  99.7%
+[growisofs]  1624932352/4291532800 (37.9%) @2.5x, remaining 13:09 RBU 100.0% UBU  99.7%
+[growisofs]  1636270080/4291532800 (38.1%) @2.5x, remaining 13:05 RBU 100.0% UBU 100.0%
+[growisofs]  1647575040/4291532800 (38.4%) @2.4x, remaining 13:01 RBU 100.0% UBU  99.7%
+[growisofs]  1658912768/4291532800 (38.7%) @2.5x, remaining 12:59 RBU 100.0% UBU 100.0%
+[growisofs]  1670250496/4291532800 (38.9%) @2.5x, remaining 12:55 RBU 100.0% UBU  99.7%
+[growisofs]  1681555456/4291532800 (39.2%) @2.4x, remaining 12:51 RBU 100.0% UBU  99.7%
+[growisofs]  1692893184/4291532800 (39.4%) @2.5x, remaining 12:49 RBU 100.0% UBU 100.0%
+[growisofs]  1704230912/4291532800 (39.7%) @2.5x, remaining 12:45 RBU 100.0% UBU  99.7%
+[growisofs]  1715535872/4291532800 (40.0%) @2.4x, remaining 12:41 RBU 100.0% UBU  99.7%
+[growisofs]  1726873600/4291532800 (40.2%) @2.5x, remaining 12:38 RBU 100.0% UBU  99.7%
+[growisofs]  1738211328/4291532800 (40.5%) @2.5x, remaining 12:35 RBU 100.0% UBU 100.0%
+[growisofs]  1749516288/4291532800 (40.8%) @2.4x, remaining 12:31 RBU 100.0% UBU 100.0%
+[growisofs]  1760854016/4291532800 (41.0%) @2.5x, remaining 12:28 RBU 100.0% UBU  99.7%
+[growisofs]  1772158976/4291532800 (41.3%) @2.4x, remaining 12:24 RBU 100.0% UBU  99.7%
+[growisofs]  1783496704/4291532800 (41.6%) @2.5x, remaining 12:21 RBU 100.0% UBU  99.7%
+[growisofs]  1794834432/4291532800 (41.8%) @2.5x, remaining 12:18 RBU 100.0% UBU 100.0%
+[growisofs]  1806172160/4291532800 (42.1%) @2.5x, remaining 12:14 RBU 100.0% UBU  99.7%
+[growisofs]  1817477120/4291532800 (42.4%) @2.4x, remaining 12:10 RBU 100.0% UBU  99.7%
+[growisofs]  1828814848/4291532800 (42.6%) @2.5x, remaining 12:08 RBU 100.0% UBU 100.0%
+[growisofs]  1840152576/4291532800 (42.9%) @2.5x, remaining 12:04 RBU 100.0% UBU  99.7%
+[growisofs]  1851457536/4291532800 (43.1%) @2.4x, remaining 12:00 RBU 100.0% UBU  99.7%
+[growisofs]  1862795264/4291532800 (43.4%) @2.5x, remaining 11:58 RBU 100.0% UBU 100.0%
+[growisofs]  1874132992/4291532800 (43.7%) @2.5x, remaining 11:54 RBU 100.0% UBU  99.7%
+[growisofs]  1885437952/4291532800 (43.9%) @2.4x, remaining 11:50 RBU 100.0% UBU  99.7%
+[growisofs]  1896775680/4291532800 (44.2%) @2.5x, remaining 11:48 RBU 100.0% UBU 100.0%
+[growisofs]  1908113408/4291532800 (44.5%) @2.5x, remaining 11:44 RBU 100.0% UBU 100.0%
+[growisofs]  1919451136/4291532800 (44.7%) @2.5x, remaining 11:40 RBU 100.0% UBU  99.7%
+[growisofs]  1930756096/4291532800 (45.0%) @2.4x, remaining 11:38 RBU 100.0% UBU  99.7%
+[growisofs]  1942093824/4291532800 (45.3%) @2.5x, remaining 11:34 RBU 100.0% UBU  99.7%
+[growisofs]  1953431552/4291532800 (45.5%) @2.5x, remaining 11:30 RBU 100.0% UBU  99.7%
+[growisofs]  1964736512/4291532800 (45.8%) @2.4x, remaining 11:28 RBU 100.0% UBU  99.7%
+[growisofs]  1976074240/4291532800 (46.0%) @2.5x, remaining 11:24 RBU 100.0% UBU  99.7%
+[growisofs]  1987411968/4291532800 (46.3%) @2.5x, remaining 11:20 RBU 100.0% UBU 100.0%
+[growisofs]  1998716928/4291532800 (46.6%) @2.4x, remaining 11:17 RBU 100.0% UBU  99.7%
+[growisofs]  2010054656/4291532800 (46.8%) @2.5x, remaining 11:14 RBU 100.0% UBU  99.7%
+[growisofs]  2021392384/4291532800 (47.1%) @2.5x, remaining 11:10 RBU 100.0% UBU  99.7%
+[growisofs]  2032730112/4291532800 (47.4%) @2.5x, remaining 11:07 RBU 100.0% UBU  99.7%
+[growisofs]  2044035072/4291532800 (47.6%) @2.4x, remaining 11:04 RBU 100.0% UBU 100.0%
+[growisofs]  2055372800/4291532800 (47.9%) @2.5x, remaining 11:00 RBU 100.0% UBU 100.0%
+[growisofs]  2066710528/4291532800 (48.2%) @2.5x, remaining 10:57 RBU  99.9% UBU  99.7%
+[growisofs]  2078015488/4291532800 (48.4%) @2.4x, remaining 10:54 RBU 100.0% UBU  99.7%
+[growisofs]  2089353216/4291532800 (48.7%) @2.5x, remaining 10:50 RBU 100.0% UBU 100.0%
+[growisofs]  2100690944/4291532800 (48.9%) @2.5x, remaining 10:47 RBU 100.0% UBU  99.7%
+[growisofs]  2111995904/4291532800 (49.2%) @2.4x, remaining 10:43 RBU 100.0% UBU 100.0%
+[growisofs]  2123333632/4291532800 (49.5%) @2.5x, remaining 10:40 RBU 100.0% UBU  99.7%
+[growisofs]  2134671360/4291532800 (49.7%) @2.5x, remaining 10:37 RBU 100.0% UBU  99.7%
+[growisofs]  2145976320/4291532800 (50.0%) @2.4x, remaining 10:33 RBU 100.0% UBU  99.7%
+[growisofs]  2157314048/4291532800 (50.3%) @2.5x, remaining 10:30 RBU 100.0% UBU  99.7%
+[growisofs]  2168651776/4291532800 (50.5%) @2.5x, remaining 10:27 RBU 100.0% UBU  99.7%
+[growisofs]  2179956736/4291532800 (50.8%) @2.4x, remaining 10:23 RBU 100.0% UBU  99.7%
+[growisofs]  2191294464/4291532800 (51.1%) @2.5x, remaining 10:20 RBU 100.0% UBU 100.0%
+[growisofs]  2202632192/4291532800 (51.3%) @2.5x, remaining 10:17 RBU 100.0% UBU  99.7%
+[growisofs]  2213969920/4291532800 (51.6%) @2.5x, remaining 10:13 RBU 100.0% UBU  99.7%
+[growisofs]  2225274880/4291532800 (51.9%) @2.4x, remaining 10:10 RBU 100.0% UBU  99.7%
+[growisofs]  2236612608/4291532800 (52.1%) @2.5x, remaining 10:07 RBU 100.0% UBU 100.0%
+[growisofs]  2247950336/4291532800 (52.4%) @2.5x, remaining 10:03 RBU 100.0% UBU  99.7%
+[growisofs]  2259255296/4291532800 (52.6%) @2.4x, remaining 9:59 RBU 100.0% UBU  99.7%
+[growisofs]  2270593024/4291532800 (52.9%) @2.5x, remaining 9:57 RBU 100.0% UBU  99.7%
+[growisofs]  2281930752/4291532800 (53.2%) @2.5x, remaining 9:53 RBU 100.0% UBU  99.7%
+[growisofs]  2293235712/4291532800 (53.4%) @2.4x, remaining 9:49 RBU 100.0% UBU  99.7%
+[growisofs]  2304573440/4291532800 (53.7%) @2.5x, remaining 9:47 RBU 100.0% UBU 100.0%
+[growisofs]  2315911168/4291532800 (54.0%) @2.5x, remaining 9:43 RBU 100.0% UBU  99.7%
+[growisofs]  2327248896/4291532800 (54.2%) @2.5x, remaining 9:39 RBU 100.0% UBU  99.7%
+[growisofs]  2338553856/4291532800 (54.5%) @2.4x, remaining 9:37 RBU 100.0% UBU  99.7%
+[growisofs]  2349891584/4291532800 (54.8%) @2.5x, remaining 9:33 RBU 100.0% UBU  99.7%
+[growisofs]  2361229312/4291532800 (55.0%) @2.5x, remaining 9:29 RBU 100.0% UBU  99.7%
+[growisofs]  2372534272/4291532800 (55.3%) @2.4x, remaining 9:26 RBU 100.0% UBU  99.7%
+[growisofs]  2383872000/4291532800 (55.5%) @2.5x, remaining 9:23 RBU 100.0% UBU  99.7%
+[growisofs]  2395209728/4291532800 (55.8%) @2.5x, remaining 9:19 RBU 100.0% UBU 100.0%
+[growisofs]  2406514688/4291532800 (56.1%) @2.4x, remaining 9:16 RBU 100.0% UBU 100.0%
+[growisofs]  2417852416/4291532800 (56.3%) @2.5x, remaining 9:13 RBU 100.0% UBU  99.7%
+[growisofs]  2429190144/4291532800 (56.6%) @2.5x, remaining 9:09 RBU 100.0% UBU  99.7%
+[growisofs]  2440495104/4291532800 (56.9%) @2.4x, remaining 9:06 RBU 100.0% UBU 100.0%
+[growisofs]  2451832832/4291532800 (57.1%) @2.5x, remaining 9:03 RBU 100.0% UBU  99.7%
+[growisofs]  2463170560/4291532800 (57.4%) @2.5x, remaining 8:59 RBU 100.0% UBU 100.0%
+[growisofs]  2474508288/4291532800 (57.7%) @2.5x, remaining 8:56 RBU 100.0% UBU 100.0%
+[growisofs]  2485813248/4291532800 (57.9%) @2.4x, remaining 8:53 RBU 100.0% UBU  99.7%
+[growisofs]  2497150976/4291532800 (58.2%) @2.5x, remaining 8:49 RBU 100.0% UBU  99.7%
+[growisofs]  2508488704/4291532800 (58.5%) @2.5x, remaining 8:46 RBU 100.0% UBU  99.7%
+[growisofs]  2519793664/4291532800 (58.7%) @2.4x, remaining 8:43 RBU 100.0% UBU  99.7%
+[growisofs]  2531131392/4291532800 (59.0%) @2.5x, remaining 8:39 RBU 100.0% UBU  99.7%
+[growisofs]  2542469120/4291532800 (59.2%) @2.5x, remaining 8:36 RBU 100.0% UBU  99.7%
+[growisofs]  2553774080/4291532800 (59.5%) @2.4x, remaining 8:33 RBU 100.0% UBU 100.0%
+[growisofs]  2565111808/4291532800 (59.8%) @2.5x, remaining 8:29 RBU 100.0% UBU  99.7%
+[growisofs]  2576449536/4291532800 (60.0%) @2.5x, remaining 8:26 RBU 100.0% UBU  99.7%
+[growisofs]  2587754496/4291532800 (60.3%) @2.4x, remaining 8:23 RBU 100.0% UBU  99.7%
+[growisofs]  2599092224/4291532800 (60.6%) @2.5x, remaining 8:19 RBU 100.0% UBU 100.0%
+[growisofs]  2610429952/4291532800 (60.8%) @2.5x, remaining 8:16 RBU 100.0% UBU  99.7%
+[growisofs]  2621734912/4291532800 (61.1%) @2.4x, remaining 8:12 RBU 100.0% UBU  99.7%
+[growisofs]  2633072640/4291532800 (61.4%) @2.5x, remaining 8:09 RBU 100.0% UBU  99.7%
+[growisofs]  2644410368/4291532800 (61.6%) @2.5x, remaining 8:06 RBU 100.0% UBU 100.0%
+[growisofs]  2655715328/4291532800 (61.9%) @2.4x, remaining 8:02 RBU 100.0% UBU 100.0%
+[growisofs]  2667053056/4291532800 (62.1%) @2.5x, remaining 7:59 RBU 100.0% UBU  99.7%
+[growisofs]  2678390784/4291532800 (62.4%) @2.5x, remaining 7:56 RBU 100.0% UBU  99.7%
+[growisofs]  2689695744/4291532800 (62.7%) @2.4x, remaining 7:52 RBU 100.0% UBU  99.7%
+[growisofs]  2701033472/4291532800 (62.9%) @2.5x, remaining 7:49 RBU 100.0% UBU  99.7%
+[growisofs]  2712371200/4291532800 (63.2%) @2.5x, remaining 7:46 RBU 100.0% UBU  99.7%
+[growisofs]  2723676160/4291532800 (63.5%) @2.4x, remaining 7:42 RBU 100.0% UBU 100.0%
+[growisofs]  2735013888/4291532800 (63.7%) @2.5x, remaining 7:39 RBU 100.0% UBU  99.7%
+[growisofs]  2746351616/4291532800 (64.0%) @2.5x, remaining 7:36 RBU 100.0% UBU 100.0%
+[growisofs]  2757656576/4291532800 (64.3%) @2.4x, remaining 7:32 RBU 100.0% UBU  99.7%
+[growisofs]  2768994304/4291532800 (64.5%) @2.5x, remaining 7:29 RBU 100.0% UBU  99.7%
+[growisofs]  2780332032/4291532800 (64.8%) @2.5x, remaining 7:26 RBU 100.0% UBU  99.7%
+[growisofs]  2791636992/4291532800 (65.0%) @2.4x, remaining 7:22 RBU 100.0% UBU 100.0%
+[growisofs]  2802974720/4291532800 (65.3%) @2.5x, remaining 7:19 RBU 100.0% UBU  99.7%
+[growisofs]  2814312448/4291532800 (65.6%) @2.5x, remaining 7:16 RBU 100.0% UBU 100.0%
+[growisofs]  2825617408/4291532800 (65.8%) @2.4x, remaining 7:12 RBU 100.0% UBU  99.7%
+[growisofs]  2836955136/4291532800 (66.1%) @2.5x, remaining 7:09 RBU 100.0% UBU 100.0%
+[growisofs]  2848292864/4291532800 (66.4%) @2.5x, remaining 7:06 RBU 100.0% UBU  99.7%
+[growisofs]  2859597824/4291532800 (66.6%) @2.4x, remaining 7:02 RBU 100.0% UBU  99.7%
+[growisofs]  2870935552/4291532800 (66.9%) @2.5x, remaining 6:59 RBU 100.0% UBU  99.7%
+[growisofs]  2882273280/4291532800 (67.2%) @2.5x, remaining 6:56 RBU 100.0% UBU 100.0%
+[growisofs]  2893611008/4291532800 (67.4%) @2.5x, remaining 6:52 RBU  99.9% UBU 100.0%
+[growisofs]  2904915968/4291532800 (67.7%) @2.4x, remaining 6:49 RBU 100.0% UBU  99.7%
+[growisofs]  2916253696/4291532800 (68.0%) @2.5x, remaining 6:46 RBU 100.0% UBU  99.7%
+[growisofs]  2927591424/4291532800 (68.2%) @2.5x, remaining 6:42 RBU 100.0% UBU  99.7%
+[growisofs]  2938896384/4291532800 (68.5%) @2.4x, remaining 6:39 RBU 100.0% UBU 100.0%
+[growisofs]  2950234112/4291532800 (68.7%) @2.5x, remaining 6:35 RBU 100.0% UBU  99.7%
+[growisofs]  2961571840/4291532800 (69.0%) @2.5x, remaining 6:32 RBU 100.0% UBU  99.7%
+[growisofs]  2972909568/4291532800 (69.3%) @2.5x, remaining 6:29 RBU 100.0% UBU  99.7%
+[growisofs]  2984214528/4291532800 (69.5%) @2.4x, remaining 6:25 RBU 100.0% UBU 100.0%
+[growisofs]  2995552256/4291532800 (69.8%) @2.5x, remaining 6:22 RBU 100.0% UBU 100.0%
+[growisofs]  3006889984/4291532800 (70.1%) @2.5x, remaining 6:19 RBU 100.0% UBU  99.7%
+[growisofs]  3018194944/4291532800 (70.3%) @2.4x, remaining 6:15 RBU 100.0% UBU  99.7%
+[growisofs]  3029532672/4291532800 (70.6%) @2.5x, remaining 6:12 RBU 100.0% UBU  99.7%
+[growisofs]  3040870400/4291532800 (70.9%) @2.5x, remaining 6:09 RBU 100.0% UBU  99.7%
+[growisofs]  3052208128/4291532800 (71.1%) @2.5x, remaining 6:05 RBU 100.0% UBU  99.7%
+[growisofs]  3063513088/4291532800 (71.4%) @2.4x, remaining 6:02 RBU 100.0% UBU  99.7%
+[growisofs]  3074850816/4291532800 (71.6%) @2.5x, remaining 5:59 RBU 100.0% UBU  99.7%
+[growisofs]  3086188544/4291532800 (71.9%) @2.5x, remaining 5:55 RBU 100.0% UBU 100.0%
+[growisofs]  3097493504/4291532800 (72.2%) @2.4x, remaining 5:52 RBU 100.0% UBU 100.0%
+[growisofs]  3108831232/4291532800 (72.4%) @2.5x, remaining 5:49 RBU 100.0% UBU 100.0%
+[growisofs]  3120168960/4291532800 (72.7%) @2.5x, remaining 5:45 RBU 100.0% UBU  99.7%
+[growisofs]  3131473920/4291532800 (73.0%) @2.4x, remaining 5:42 RBU 100.0% UBU  99.7%
+[growisofs]  3142811648/4291532800 (73.2%) @2.5x, remaining 5:39 RBU 100.0% UBU 100.0%
+[growisofs]  3154149376/4291532800 (73.5%) @2.5x, remaining 5:35 RBU 100.0% UBU  99.7%
+[growisofs]  3165454336/4291532800 (73.8%) @2.4x, remaining 5:32 RBU 100.0% UBU  99.7%
+[growisofs]  3176792064/4291532800 (74.0%) @2.5x, remaining 5:29 RBU 100.0% UBU 100.0%
+[growisofs]  3188129792/4291532800 (74.3%) @2.5x, remaining 5:25 RBU 100.0% UBU 100.0%
+[growisofs]  3199434752/4291532800 (74.6%) @2.4x, remaining 5:22 RBU 100.0% UBU 100.0%
+[growisofs]  3210772480/4291532800 (74.8%) @2.4x, remaining 5:19 RBU 100.0% UBU  99.7%
+[growisofs]  3222110208/4291532800 (75.1%) @2.5x, remaining 5:15 RBU 100.0% UBU  99.7%
+[growisofs]  3233447936/4291532800 (75.3%) @2.5x, remaining 5:12 RBU 100.0% UBU 100.0%
+[growisofs]  3244752896/4291532800 (75.6%) @2.4x, remaining 5:09 RBU 100.0% UBU 100.0%
+[growisofs]  3256090624/4291532800 (75.9%) @2.5x, remaining 5:05 RBU 100.0% UBU  99.7%
+[growisofs]  3267428352/4291532800 (76.1%) @2.5x, remaining 5:02 RBU 100.0% UBU  99.7%
+[growisofs]  3278733312/4291532800 (76.4%) @2.4x, remaining 4:59 RBU 100.0% UBU  99.7%
+[growisofs]  3290071040/4291532800 (76.7%) @2.5x, remaining 4:55 RBU 100.0% UBU 100.0%
+[growisofs]  3301408768/4291532800 (76.9%) @2.5x, remaining 4:52 RBU 100.0% UBU  99.7%
+[growisofs]  3312713728/4291532800 (77.2%) @2.4x, remaining 4:48 RBU 100.0% UBU  99.7%
+[growisofs]  3324051456/4291532800 (77.5%) @2.5x, remaining 4:45 RBU 100.0% UBU  99.7%
+[growisofs]  3335389184/4291532800 (77.7%) @2.5x, remaining 4:42 RBU 100.0% UBU 100.0%
+[growisofs]  3346726912/4291532800 (78.0%) @2.5x, remaining 4:38 RBU 100.0% UBU  99.7%
+[growisofs]  3358031872/4291532800 (78.2%) @2.4x, remaining 4:35 RBU 100.0% UBU  99.7%
+[growisofs]  3369369600/4291532800 (78.5%) @2.5x, remaining 4:32 RBU 100.0% UBU  99.7%
+[growisofs]  3380707328/4291532800 (78.8%) @2.5x, remaining 4:28 RBU 100.0% UBU  99.7%
+[growisofs]  3392012288/4291532800 (79.0%) @2.4x, remaining 4:25 RBU 100.0% UBU  99.7%
+[growisofs]  3403350016/4291532800 (79.3%) @2.5x, remaining 4:22 RBU 100.0% UBU  99.7%
+[growisofs]  3414687744/4291532800 (79.6%) @2.5x, remaining 4:18 RBU 100.0% UBU  99.7%
+[growisofs]  3425992704/4291532800 (79.8%) @2.4x, remaining 4:15 RBU 100.0% UBU  99.7%
+[growisofs]  3437330432/4291532800 (80.1%) @2.5x, remaining 4:11 RBU 100.0% UBU 100.0%
+[growisofs]  3448668160/4291532800 (80.4%) @2.5x, remaining 4:08 RBU 100.0% UBU  99.7%
+[growisofs]  3459973120/4291532800 (80.6%) @2.4x, remaining 4:05 RBU 100.0% UBU  99.7%
+[growisofs]  3471310848/4291532800 (80.9%) @2.5x, remaining 4:01 RBU 100.0% UBU  99.7%
+[growisofs]  3482648576/4291532800 (81.2%) @2.5x, remaining 3:58 RBU 100.0% UBU  99.7%
+[growisofs]  3493953536/4291532800 (81.4%) @2.4x, remaining 3:55 RBU 100.0% UBU  99.7%
+[growisofs]  3505291264/4291532800 (81.7%) @2.5x, remaining 3:51 RBU 100.0% UBU  99.7%
+[growisofs]  3516628992/4291532800 (81.9%) @2.5x, remaining 3:48 RBU 100.0% UBU  99.7%
+[growisofs]  3527966720/4291532800 (82.2%) @2.5x, remaining 3:45 RBU 100.0% UBU  99.7%
+[growisofs]  3539271680/4291532800 (82.5%) @2.4x, remaining 3:41 RBU 100.0% UBU  99.7%
+[growisofs]  3550609408/4291532800 (82.7%) @2.5x, remaining 3:38 RBU 100.0% UBU  99.7%
+[growisofs]  3561947136/4291532800 (83.0%) @2.5x, remaining 3:35 RBU 100.0% UBU  99.7%
+[growisofs]  3573252096/4291532800 (83.3%) @2.4x, remaining 3:31 RBU 100.0% UBU  99.7%
+[growisofs]  3584589824/4291532800 (83.5%) @2.5x, remaining 3:28 RBU 100.0% UBU 100.0%
+[growisofs]  3595927552/4291532800 (83.8%) @2.5x, remaining 3:25 RBU 100.0% UBU  99.7%
+[growisofs]  3607265280/4291532800 (84.1%) @2.5x, remaining 3:21 RBU 100.0% UBU  99.7%
+[growisofs]  3618570240/4291532800 (84.3%) @2.4x, remaining 3:18 RBU 100.0% UBU  99.7%
+[growisofs]  3629907968/4291532800 (84.6%) @2.5x, remaining 3:15 RBU 100.0% UBU  99.7%
+[growisofs]  3641245696/4291532800 (84.8%) @2.5x, remaining 3:11 RBU 100.0% UBU  99.7%
+[growisofs]  3652550656/4291532800 (85.1%) @2.4x, remaining 3:08 RBU 100.0% UBU 100.0%
+[growisofs]  3663888384/4291532800 (85.4%) @2.5x, remaining 3:05 RBU 100.0% UBU  99.7%
+[growisofs]  3675226112/4291532800 (85.6%) @2.5x, remaining 3:01 RBU 100.0% UBU  99.7%
+[growisofs]  3686563840/4291532800 (85.9%) @2.5x, remaining 2:58 RBU 100.0% UBU  99.7%
+[growisofs]  3697868800/4291532800 (86.2%) @2.4x, remaining 2:55 RBU 100.0% UBU  99.7%
+[growisofs]  3709206528/4291532800 (86.4%) @2.5x, remaining 2:51 RBU 100.0% UBU 100.0%
+[growisofs]  3720544256/4291532800 (86.7%) @2.5x, remaining 2:48 RBU 100.0% UBU  99.7%
+[growisofs]  3731881984/4291532800 (87.0%) @2.5x, remaining 2:45 RBU  99.9% UBU 100.0%
+[growisofs]  3743186944/4291532800 (87.2%) @2.4x, remaining 2:41 RBU 100.0% UBU 100.0%
+[growisofs]  3754524672/4291532800 (87.5%) @2.5x, remaining 2:38 RBU 100.0% UBU 100.0%
+[growisofs]  3765862400/4291532800 (87.8%) @2.5x, remaining 2:35 RBU 100.0% UBU  99.7%
+[growisofs]  3777167360/4291532800 (88.0%) @2.4x, remaining 2:31 RBU 100.0% UBU  99.7%
+[growisofs]  3788505088/4291532800 (88.3%) @2.5x, remaining 2:28 RBU 100.0% UBU 100.0%
+[growisofs]  3799842816/4291532800 (88.5%) @2.5x, remaining 2:25 RBU 100.0% UBU 100.0%
+[growisofs]  3811180544/4291532800 (88.8%) @2.5x, remaining 2:21 RBU 100.0% UBU 100.0%
+[growisofs]  3822485504/4291532800 (89.1%) @2.4x, remaining 2:18 RBU 100.0% UBU  99.7%
+[growisofs]  3833823232/4291532800 (89.3%) @2.5x, remaining 2:15 RBU 100.0% UBU  99.7%
+[growisofs]  3845160960/4291532800 (89.6%) @2.5x, remaining 2:11 RBU 100.0% UBU  99.7%
+[growisofs]  3856465920/4291532800 (89.9%) @2.4x, remaining 2:08 RBU 100.0% UBU  99.7%
+[growisofs]  3867803648/4291532800 (90.1%) @2.5x, remaining 2:04 RBU 100.0% UBU  99.7%
+[growisofs]  3879141376/4291532800 (90.4%) @2.5x, remaining 2:01 RBU 100.0% UBU  99.7%
+[growisofs]  3890446336/4291532800 (90.7%) @2.4x, remaining 1:58 RBU 100.0% UBU  99.7%
+[growisofs]  3901784064/4291532800 (90.9%) @2.5x, remaining 1:54 RBU 100.0% UBU  99.7%
+[growisofs]  3913121792/4291532800 (91.2%) @2.5x, remaining 1:51 RBU 100.0% UBU  99.7%
+[growisofs]  3924459520/4291532800 (91.4%) @2.5x, remaining 1:48 RBU 100.0% UBU  99.7%
+[growisofs]  3935764480/4291532800 (91.7%) @2.4x, remaining 1:44 RBU 100.0% UBU 100.0%
+[growisofs]  3947102208/4291532800 (92.0%) @2.5x, remaining 1:41 RBU 100.0% UBU  99.7%
+[growisofs]  3958439936/4291532800 (92.2%) @2.5x, remaining 1:38 RBU 100.0% UBU  99.7%
+[growisofs]  3969744896/4291532800 (92.5%) @2.4x, remaining 1:34 RBU 100.0% UBU  99.7%
+[growisofs]  3981082624/4291532800 (92.8%) @2.5x, remaining 1:31 RBU 100.0% UBU 100.0%
+[growisofs]  3992420352/4291532800 (93.0%) @2.5x, remaining 1:28 RBU 100.0% UBU 100.0%
+[growisofs]  4003758080/4291532800 (93.3%) @2.5x, remaining 1:24 RBU 100.0% UBU  99.7%
+[growisofs]  4015063040/4291532800 (93.6%) @2.4x, remaining 1:21 RBU 100.0% UBU  99.7%
+[growisofs]  4026400768/4291532800 (93.8%) @2.5x, remaining 1:18 RBU 100.0% UBU  99.7%
+[growisofs]  4037738496/4291532800 (94.1%) @2.5x, remaining 1:14 RBU 100.0% UBU  99.7%
+[growisofs]  4049043456/4291532800 (94.3%) @2.4x, remaining 1:11 RBU 100.0% UBU  99.7%
+[growisofs]  4060381184/4291532800 (94.6%) @2.4x, remaining 1:08 RBU 100.0% UBU  99.7%
+[growisofs]  4071718912/4291532800 (94.9%) @2.5x, remaining 1:04 RBU 100.0% UBU 100.0%
+[growisofs]  4083056640/4291532800 (95.1%) @2.5x, remaining 1:01 RBU 100.0% UBU  99.7%
+[growisofs]  4094361600/4291532800 (95.4%) @2.4x, remaining 0:58 RBU 100.0% UBU  99.7%
+[growisofs]  4105699328/4291532800 (95.7%) @2.5x, remaining 0:54 RBU 100.0% UBU 100.0%
+[growisofs]  4117037056/4291532800 (95.9%) @2.5x, remaining 0:51 RBU 100.0% UBU 100.0%
+[growisofs]  4128374784/4291532800 (96.2%) @2.5x, remaining 0:48 RBU 100.0% UBU  99.7%
+[growisofs]  4139679744/4291532800 (96.5%) @2.4x, remaining 0:44 RBU 100.0% UBU 100.0%
+[growisofs]  4151017472/4291532800 (96.7%) @2.5x, remaining 0:41 RBU 100.0% UBU 100.0%
+[growisofs]  4162355200/4291532800 (97.0%) @2.5x, remaining 0:38 RBU 100.0% UBU 100.0%
+[growisofs]  4173660160/4291532800 (97.3%) @2.4x, remaining 0:34 RBU 100.0% UBU  99.7%
+[growisofs]  4184997888/4291532800 (97.5%) @2.5x, remaining 0:31 RBU 100.0% UBU  99.7%
+[growisofs]  4196335616/4291532800 (97.8%) @2.5x, remaining 0:28 RBU 100.0% UBU 100.0%
+[growisofs]  4207673344/4291532800 (98.0%) @2.5x, remaining 0:24 RBU 100.0% UBU  99.7%
+[growisofs]  4218978304/4291532800 (98.3%) @2.4x, remaining 0:21 RBU 100.0% UBU  99.7%
+[growisofs]  4230316032/4291532800 (98.6%) @2.5x, remaining 0:18 RBU 100.0% UBU  99.7%
+[growisofs]  4241653760/4291532800 (98.8%) @2.5x, remaining 0:14 RBU 100.0% UBU  99.7%
+[growisofs]  4252991488/4291532800 (99.1%) @2.5x, remaining 0:11 RBU 100.0% UBU  99.7%
