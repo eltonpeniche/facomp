@@ -7,6 +7,10 @@ apt upgrade -y
 # Escritório
 apt install libreoffice -y
 
+# Monitoramento
+apt install htop -y
+apt install net-tools -y
+
 # Linguagens de Programação
 apt install swi-prolog -y
 apt install r-base -y
@@ -49,7 +53,7 @@ apt install mysql-workbench -y
 # Ferramentas de Desenvolvimento
 apt install git -y
 apt install vim -y
-apt install scilab -y
+
 
 # Ferramentas para compressão de arquivos
 apt install unrar -y
@@ -74,18 +78,6 @@ apt install artemis -y
 #Ferramenta de emulação
 apt-get install wine-stable -y
 
-#virtualbox
-wget -c https://download.virtualbox.org/virtualbox/6.0.4/virtualbox-6.0_6.0.4-128413~Ubuntu~bionic_amd64.deb
-dpkg -i virtualbox*.deb
-apt install -f -y && rm virtualbox*.deb
-
-#unity
-apt update
-wget -c http://beta.unity3d.com/download/2b451a7da81d/unity-editor_amd64-2017.2.0xb6Linux.deb -O unity-editor.deb
-dpkg -i unity-editor.deb
-apt install -f -y
-
-
 #google chrome
 wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 dpkg -i google-chrome*.deb
@@ -102,7 +94,18 @@ apt install sublime-text -y
 sudo apt -y install cantor cantor-backend-python3 python3-numpy python3-scipy python3-matplotlib spyder3 jupyter-notebook
 pip3 install spyder-notebook simpy fitter==1.0.9
 
+pip3 install pygame
 
+#unity
+apt update
+wget -c http://beta.unity3d.com/download/2b451a7da81d/unity-editor_amd64-2017.2.0xb6Linux.deb -O unity-editor.deb
+dpkg -i unity-editor.deb
+apt install -f -y
+
+#virtualbox
+wget -c https://download.virtualbox.org/virtualbox/6.0.4/virtualbox-6.0_6.0.4-128413~Ubuntu~bionic_amd64.deb
+dpkg -i virtualbox*.deb
+apt install -f -y && rm virtualbox*.deb
 
 
 
