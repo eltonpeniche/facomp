@@ -1,0 +1,46 @@
+[
+    {
+        "enabled": true,
+        "id": "5b5ad869f842fb44c40ada0188cd1bea",
+        "metadata": {
+            "fullname": "xrandr-unknown",
+            "name": "LVDS"
+        },
+        "mode": {
+            "refresh": 59.97403335571289,
+            "size": {
+                "height": 720,
+                "width": 1280
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "1d16fef0610056cfedaf475ceb9b6c4b",
+        "metadata": {
+            "fullname": "xrandr-BenQ PJ-790",
+            "name": "VGA-0"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 720,
+                "width": 1280
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    }
+]
