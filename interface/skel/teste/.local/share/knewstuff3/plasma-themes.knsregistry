@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Macbreeze Shadowless</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>michaldybczak</author>
+  <homepage>https://store.kde.org/p/1255186</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>57</rating>
+  <downloads>5857</downloads>
+  <installedfile>/tmp/MacBreeze-Shadowless.zip</installedfile>
+  <id>1255186</id>
+  <releasedate>2018-08-19</releasedate>
+  <summary># Theme for KDE Plasma 5&lt;br />
+&lt;br />
+Based on default Breeze&lt;br />
+&lt;br />
+It differs from original:&lt;br />
+- It has light semi-transparent panel and notifications (so the blur can be enabled) with black font and icons.&lt;br />
+- The panel doesn't have a shadow which creates a flat, coherent look...</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img/2/8/f/b/19c861bd8c10b4aeb447bb2755f6e8048dcb.jpg</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img/2/8/f/b/19c861bd8c10b4aeb447bb2755f6e8048dcb.jpg</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1534688538/s/73b28c4a7a72462aef3ca50cade1fb06/t/1538721559/o/1/MacBreeze-Shadowless.zip</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

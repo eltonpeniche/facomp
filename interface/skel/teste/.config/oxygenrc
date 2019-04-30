@@ -1,0 +1,5 @@
+[Style]
+MenuHighlightMode=MM_SUBTLE
+ScrollBarWidth=20
+ToolBarDrawItemSeparator=false
+ViewTriangularExpanderSize=TE_TINY

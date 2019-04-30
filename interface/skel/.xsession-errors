@@ -1,1178 +1,4 @@
-5a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kde-gtk-config.desktop" score: 4.04221 last: 1556382307 first: 1541011386
-QWidgetWindow(0x55caaa044b20, name="FocusHackWidgetClassWindow") must be a top level window.
-QWidgetWindow(0x55caaa044b20, name="FocusHackWidgetClassWindow") must be a top level window.
-QWidgetWindow(0x55caaa044b20, name="FocusHackWidgetClassWindow") must be a top level window.
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kwinoptions.desktop" score: 4.16595 last: 1556382325 first: 1541011399
-load shortcut for  "Walk Through Windows"
-load shortcut for  "Walk Through Windows (Reverse)"
-load shortcut for  "Walk Through Windows of Current Application"
-load shortcut for  "Walk Through Windows of Current Application (Reverse)"
-load shortcut for  "Walk Through Windows Alternative"
-load shortcut for  "Walk Through Windows Alternative (Reverse)"
-load shortcut for  "Walk Through Windows of Current Application Alternative"
-load shortcut for  "Walk Through Windows of Current Application Alternative (Reverse)"
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kwintabbox.desktop" score: 3.13279 last: 1556382373 first: 1541011405
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:standard_actions.desktop" score: 2.06393 last: 1556382377 first: 1548795376
-QDBusArgument: read from a write-only object
-QDBusArgument: read from a write-only object
-QDBusArgument: read from a write-only object
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kcm_sddm.desktop" score: 2.2088 last: 1556382379 first: 1541011409
-kcm_icons: Theme list: ("hicolor", "Zafiro-icons-0.6", "Adwaita", "breeze", "breeze-dark", "HighContrast", "Humanity", "Humanity-Dark", "LoginIcons", "oxygen", "ubuntu-mono-dark", "ubuntu-mono-light") <<
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/16/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/22/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/24/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/32/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/48/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/64/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/128/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Icon theme "Numix" not found.
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-QWidgetWindow(0x55caaa044b20, name="FocusHackWidgetClassWindow") must be a top level window.
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:icons.desktop" score: 4.04605 last: 1556382382 first: 1541011325
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:style.desktop" score: 7.04605 last: 1556382399 first: 1541011341
-kdeinit5: Got EXT_EXEC '/usr/bin/dolphin' from launcher.
-kdeinit5: preparing to launch '/usr/bin/dolphin'
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 14023, resource id: 60817408, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 14027, resource id: 60817409, major code: 18 (ChangeProperty), minor code: 0
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "stash"
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/today")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/yesterday")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/thismonth")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/lastmonth")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/documents")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/images")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/audio")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/videos")
-qt.accessibility.core: Cannot create accessible child interface for object:  PlacesView(0x55e96d7a8c20)  index:  15
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
-kf5.kio.trash: listdir:  QUrl("trash:/")
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 14497, resource id: 60817424, major code: 18 (ChangeProperty), minor code: 0
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "stash"
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/today")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/yesterday")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/thismonth")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/lastmonth")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/documents")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/images")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/audio")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/videos")
-qt.accessibility.core: Cannot create accessible child interface for object:  PlacesView(0x5572b06bfc60)  index:  15
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
-kf5.kio.trash: listdir:  QUrl("trash:/")
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 14945, resource id: 62914576, major code: 18 (ChangeProperty), minor code: 0
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "stash"
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/today")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/yesterday")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/thismonth")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/lastmonth")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/documents")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/images")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/audio")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/videos")
-qt.accessibility.core: Cannot create accessible child interface for object:  PlacesView(0x55f641469540)  index:  15
-kdeinit5: Got EXT_EXEC '/usr/bin/kate' from launcher.
-kdeinit5: preparing to launch '/usr/bin/kate'
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 15301, resource id: 69206016, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 15305, resource id: 69206017, major code: 18 (ChangeProperty), minor code: 0
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
-kf5.kio.trash: listdir:  QUrl("trash:/")
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 17000, resource id: 69206034, major code: 18 (ChangeProperty), minor code: 0
-kdeinit5: PID 16713 terminated.
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 17253, resource id: 67108880, major code: 18 (ChangeProperty), minor code: 0
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "stash"
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/today")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/yesterday")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/thismonth")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/lastmonth")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/documents")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/images")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/audio")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/videos")
-qt.accessibility.core: Cannot create accessible child interface for object:  PlacesView(0x55bc5c2f3b30)  index:  15
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
-kf5.kio.trash: listdir:  QUrl("trash:/")
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-kdeinit5: PID 16732 terminated.
-kdeinit5: PID 16729 terminated.
-kdeinit5: PID 16730 terminated.
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 18322, resource id: 69206035, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 18340, resource id: 67108881, major code: 18 (ChangeProperty), minor code: 0
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:509:15: Unable to assign [undefined] to QString
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:213: Unable to assign [undefined] to QUrl
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:45:39: Unable to assign [undefined] to QString
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 20375, resource id: 62914581, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 20392, resource id: 60817425, major code: 18 (ChangeProperty), minor code: 0
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:509:15: Unable to assign [undefined] to QString
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:213: Unable to assign [undefined] to QUrl
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:45:39: Unable to assign [undefined] to QString
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 20864, resource id: 60817430, major code: 18 (ChangeProperty), minor code: 0
-kdeinit5: PID 16688 terminated.
-kdeinit5: PID 16704 terminated.
-kdeinit5: PID 16707 terminated.
-kdeinit5: PID 16705 terminated.
-kdeinit5: PID 16697 terminated.
-kdeinit5: PID 16694 terminated.
-kdeinit5: PID 16695 terminated.
-Plugin changed to:  "org.kde.breeze"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-file:///usr/share/kwin/kcm_kwindecoration/Previews.qml:37: ReferenceError: savedIndex is not defined
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-file:///usr/share/kwin/kcm_kwindecoration/Buttons.qml:150: ReferenceError: iconLabel is not defined
-file:///usr/share/kwin/kcm_kwindecoration/Previews.qml:37: ReferenceError: savedIndex is not defined
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -25
-Setting  width : -24
-Setting  height : -47
-Setting  width : -2
-Setting  height : -25
-Setting  width : -24
-Setting  height : -47
-Setting  width : 336
-Setting  height : 178
-Setting  width : 336
-Setting  height : 178
-Setting  caption : "Arc"
-Setting  width : 337
-Setting  width : 308
-Setting  height : 149
-Setting  height : 150
-Setting  caption : "Arc"
-Setting  active : false
-Setting  width : 307
-Setting  width : 308
-Setting  height : 179
-Setting  height : 150
-file:///usr/share/kwin/kcm_kwindecoration/Buttons.qml:150: ReferenceError: iconLabel is not defined
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -21
-Setting  width : -22
-Setting  height : -41
-Setting  width : -2
-Setting  height : -21
-Setting  width : -22
-Setting  height : -41
-Setting  width : 338
-Setting  height : 184
-Setting  width : 338
-Setting  height : 184
-Setting  caption : "Arc Dark"
-Setting  width : 308
-Setting  height : 154
-Setting  caption : "Arc Dark"
-Setting  active : false
-Setting  width : 308
-Setting  height : 154
-Plugin changed to:  "org.kde.breeze"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -8
-Setting  height : -33
-Setting  width : -130
-Setting  height : -131
-Setting  width : -8
-Setting  height : -33
-Setting  width : -130
-Setting  height : -131
-Setting  width : 230
-Setting  height : 94
-Setting  width : 230
-Setting  height : 94
-Setting  caption : "Brisa"
-Setting  width : 281
-Setting  width : 302
-Setting  height : 91
-Setting  height : 142
-Setting  caption : "Brisa"
-Setting  active : false
-Setting  width : 251
-Setting  width : 302
-Setting  height : 121
-Setting  height : 142
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -14
-Setting  height : -37
-Setting  width : -38
-Setting  height : -62
-Setting  width : -14
-Setting  height : -37
-Setting  width : -38
-Setting  height : -62
-Setting  width : 322
-Setting  height : 163
-Setting  width : 322
-Setting  height : 163
-Setting  caption : "FormArc"
-Setting  width : 324
-Setting  width : 296
-Setting  height : 136
-Setting  height : 138
-Setting  caption : "FormArc"
-Setting  active : false
-Setting  width : 294
-Setting  width : 296
-Setting  height : 166
-Setting  height : 138
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : 208
-Setting  height : 79
-Setting  width : 208
-Setting  height : 79
-Setting  caption : "KArc"
-Setting  width : 273
-Setting  width : 308
-Setting  height : 74
-Setting  height : 150
-Setting  caption : "KArc"
-Setting  active : false
-Setting  width : 243
-Setting  width : 308
-Setting  height : 104
-Setting  height : 150
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : 208
-Setting  height : 79
-Setting  width : 208
-Setting  height : 79
-Setting  caption : "KArc-Dark"
-Setting  width : 273
-Setting  width : 308
-Setting  height : 74
-Setting  height : 150
-Setting  caption : "KArc-Dark"
-Setting  active : false
-Setting  width : 243
-Setting  width : 308
-Setting  height : 104
-Setting  height : 150
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -8
-Setting  height : -32
-Setting  width : -8
-Setting  height : -32
-Setting  width : 352
-Setting  height : 193
-Setting  width : 352
-Setting  height : 193
-Setting  caption : "Plastik"
-Setting  width : 342
-Setting  width : 302
-Setting  height : 153
-Setting  height : 143
-Setting  caption : "Plastik"
-Setting  active : false
-Setting  width : 312
-Setting  width : 302
-Setting  height : 183
-Setting  height : 143
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kwindecoration.desktop" score: 5.04221 last: 1556382449 first: 1541011381
-QWidgetWindow(0x55caaa044b20, name="FocusHackWidgetClassWindow") must be a top level window.
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/16/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/22/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/24/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/32/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/48/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/64/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/128/"
-invalid theme "breeze_cursors"
-invalid theme "default"
-invalid theme "Breeze_Snow"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-could not find icon "start-here"
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kde-gtk-config.desktop" score: 5.04221 last: 1556382506 first: 1541011386
-Plugin changed to:  "org.kde.breeze"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-file:///usr/share/kwin/kcm_kwindecoration/Previews.qml:37: ReferenceError: savedIndex is not defined
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-file:///usr/share/kwin/kcm_kwindecoration/Buttons.qml:150: ReferenceError: iconLabel is not defined
-file:///usr/share/kwin/kcm_kwindecoration/Previews.qml:37: ReferenceError: savedIndex is not defined
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -25
-Setting  width : -24
-Setting  height : -47
-Setting  width : -2
-Setting  height : -25
-Setting  width : -24
-Setting  height : -47
-Setting  width : 336
-Setting  height : 178
-Setting  width : 336
-Setting  height : 178
-Setting  caption : "Arc"
-Setting  width : 337
-Setting  width : 308
-Setting  height : 149
-Setting  height : 150
-Setting  caption : "Arc"
-Setting  active : false
-Setting  width : 307
-Setting  width : 308
-Setting  height : 179
-Setting  height : 150
-file:///usr/share/kwin/kcm_kwindecoration/Buttons.qml:150: ReferenceError: iconLabel is not defined
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -21
-Setting  width : -22
-Setting  height : -41
-Setting  width : -2
-Setting  height : -21
-Setting  width : -22
-Setting  height : -41
-Setting  width : 338
-Setting  height : 184
-Setting  width : 338
-Setting  height : 184
-Setting  caption : "Arc Dark"
-Setting  width : 308
-Setting  height : 154
-Setting  caption : "Arc Dark"
-Setting  active : false
-Setting  width : 308
-Setting  height : 154
-Plugin changed to:  "org.kde.breeze"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -8
-Setting  height : -33
-Setting  width : -130
-Setting  height : -131
-Setting  width : -8
-Setting  height : -33
-Setting  width : -130
-Setting  height : -131
-Setting  width : 230
-Setting  height : 94
-Setting  width : 230
-Setting  height : 94
-Setting  caption : "Brisa"
-Setting  width : 281
-Setting  width : 302
-Setting  height : 91
-Setting  height : 142
-Setting  caption : "Brisa"
-Setting  active : false
-Setting  width : 251
-Setting  width : 302
-Setting  height : 121
-Setting  height : 142
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -14
-Setting  height : -37
-Setting  width : -38
-Setting  height : -62
-Setting  width : -14
-Setting  height : -37
-Setting  width : -38
-Setting  height : -62
-Setting  width : 322
-Setting  height : 163
-Setting  width : 322
-Setting  height : 163
-Setting  caption : "FormArc"
-Setting  width : 324
-Setting  width : 296
-Setting  height : 136
-Setting  height : 138
-Setting  caption : "FormArc"
-Setting  active : false
-Setting  width : 294
-Setting  width : 296
-Setting  height : 166
-Setting  height : 138
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : 208
-Setting  height : 79
-Setting  width : 208
-Setting  height : 79
-Setting  caption : "KArc"
-Setting  width : 273
-Setting  width : 308
-Setting  height : 74
-Setting  height : 150
-Setting  caption : "KArc"
-Setting  active : false
-Setting  width : 243
-Setting  width : 308
-Setting  height : 104
-Setting  height : 150
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : 208
-Setting  height : 79
-Setting  width : 208
-Setting  height : 79
-Setting  caption : "KArc-Dark"
-Setting  width : 273
-Setting  width : 308
-Setting  height : 74
-Setting  height : 150
-Setting  caption : "KArc-Dark"
-Setting  active : false
-Setting  width : 243
-Setting  width : 308
-Setting  height : 104
-Setting  height : 150
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -8
-Setting  height : -32
-Setting  width : -8
-Setting  height : -32
-Setting  width : 352
-Setting  height : 193
-Setting  width : 352
-Setting  height : 193
-Setting  caption : "Plastik"
-Setting  width : 342
-Setting  width : 302
-Setting  height : 153
-Setting  height : 143
-Setting  caption : "Plastik"
-Setting  active : false
-Setting  width : 312
-Setting  width : 302
-Setting  height : 183
-Setting  height : 143
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kwindecoration.desktop" score: 6.04221 last: 1556382510 first: 1541011381
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:style.desktop" score: 8.04605 last: 1556382511 first: 1541011341
-Plugin changed to:  "org.kde.breeze"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-file:///usr/share/kwin/kcm_kwindecoration/Previews.qml:37: ReferenceError: savedIndex is not defined
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-file:///usr/share/kwin/kcm_kwindecoration/Buttons.qml:150: ReferenceError: iconLabel is not defined
-file:///usr/share/kwin/kcm_kwindecoration/Previews.qml:37: ReferenceError: savedIndex is not defined
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -25
-Setting  width : -24
-Setting  height : -47
-Setting  width : -2
-Setting  height : -25
-Setting  width : -24
-Setting  height : -47
-Setting  width : 336
-Setting  height : 178
-Setting  width : 336
-Setting  height : 178
-Setting  caption : "Arc"
-Setting  width : 337
-Setting  width : 308
-Setting  height : 149
-Setting  height : 150
-Setting  caption : "Arc"
-Setting  active : false
-Setting  width : 307
-Setting  width : 308
-Setting  height : 179
-Setting  height : 150
-file:///usr/share/kwin/kcm_kwindecoration/Buttons.qml:150: ReferenceError: iconLabel is not defined
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -21
-Setting  width : -22
-Setting  height : -41
-Setting  width : -2
-Setting  height : -21
-Setting  width : -22
-Setting  height : -41
-Setting  width : 338
-Setting  height : 184
-Setting  width : 338
-Setting  height : 184
-Setting  caption : "Arc Dark"
-Setting  width : 308
-Setting  height : 154
-Setting  caption : "Arc Dark"
-Setting  active : false
-Setting  width : 308
-Setting  height : 154
-Plugin changed to:  "org.kde.breeze"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -8
-Setting  height : -33
-Setting  width : -130
-Setting  height : -131
-Setting  width : -8
-Setting  height : -33
-Setting  width : -130
-Setting  height : -131
-Setting  width : 230
-Setting  height : 94
-Setting  width : 230
-Setting  height : 94
-Setting  caption : "Brisa"
-Setting  width : 281
-Setting  width : 302
-Setting  height : 91
-Setting  height : 142
-Setting  caption : "Brisa"
-Setting  active : false
-Setting  width : 251
-Setting  width : 302
-Setting  height : 121
-Setting  height : 142
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -14
-Setting  height : -37
-Setting  width : -38
-Setting  height : -62
-Setting  width : -14
-Setting  height : -37
-Setting  width : -38
-Setting  height : -62
-Setting  width : 322
-Setting  height : 163
-Setting  width : 322
-Setting  height : 163
-Setting  caption : "FormArc"
-Setting  width : 324
-Setting  width : 296
-Setting  height : 136
-Setting  height : 138
-Setting  caption : "FormArc"
-Setting  active : false
-Setting  width : 294
-Setting  width : 296
-Setting  height : 166
-Setting  height : 138
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : 208
-Setting  height : 79
-Setting  width : 208
-Setting  height : 79
-Setting  caption : "KArc"
-Setting  width : 273
-Setting  width : 308
-Setting  height : 74
-Setting  height : 150
-Setting  caption : "KArc"
-Setting  active : false
-Setting  width : 243
-Setting  width : 308
-Setting  height : 104
-Setting  height : 150
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : -2
-Setting  height : -25
-Setting  width : -152
-Setting  height : -146
-Setting  width : 208
-Setting  height : 79
-Setting  width : 208
-Setting  height : 79
-Setting  caption : "KArc-Dark"
-Setting  width : 273
-Setting  width : 308
-Setting  height : 74
-Setting  height : 150
-Setting  caption : "KArc-Dark"
-Setting  active : false
-Setting  width : 243
-Setting  width : 308
-Setting  height : 104
-Setting  height : 150
-Plugin changed to:  "org.kde.kwin.aurorae"
-Calling KPluginInfo::property("X-KDE-PluginInfo-Name") is deprecated, use KPluginInfo::pluginName() in "/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/breezedecoration.so" instead.
-Factory:  true
-Setting  width : -8
-Setting  height : -32
-Setting  width : -8
-Setting  height : -32
-Setting  width : 352
-Setting  height : 193
-Setting  width : 352
-Setting  height : 193
-Setting  caption : "Plastik"
-Setting  width : 342
-Setting  width : 302
-Setting  height : 153
-Setting  height : 143
-Setting  caption : "Plastik"
-Setting  active : false
-Setting  width : 312
-Setting  width : 302
-Setting  height : 183
-Setting  height : 143
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-Setting  active : false
-Setting  providesContextHelp : true
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kwindecoration.desktop" score: 7.04221 last: 1556382517 first: 1541011381
-kdeinit5: PID 16719 terminated.
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53093, resource id: 44040346, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53104, resource id: 44040346, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53105, resource id: 44040346, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53106, resource id: 44040346, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53107, resource id: 44040346, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53108, resource id: 44040346, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53109, resource id: 44040346, major code: 7 (ReparentWindow), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53110, resource id: 44040346, major code: 6 (ChangeSaveSet), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53111, resource id: 44040346, major code: 2 (ChangeWindowAttributes), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 53112, resource id: 44040346, major code: 10 (UnmapWindow), minor code: 0
-kdeinit5: PID 16718 terminated.
-kdeinit5: PID 16721 terminated.
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-Aborting aboutToFinish handling.
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:509:15: Unable to assign [undefined] to QString
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:213: Unable to assign [undefined] to QUrl
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:45:39: Unable to assign [undefined] to QString
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 3247, resource id: 44040357, major code: 18 (ChangeProperty), minor code: 0
-file:///usr/share/plasma/plasmoids/org.kde.plasma.kicker/contents/ui/DashboardRepresentation.qml:976: TypeError: Cannot read property 'textWidth' of null
-QXcbConnection: XCB error: 2 (BadValue), sequence: 20502, resource id: 56623109, major code: 142 (Unknown), minor code: 3
-file:///usr/share/plasma/plasmoids/org.kde.plasma.kicker/contents/ui/ItemMultiGridView.qml:120: TypeError: Cannot read property 'description' of null
-file:///usr/share/plasma/plasmoids/org.kde.plasma.kicker/contents/ui/ItemMultiGridView.qml:120: TypeError: Cannot read property 'description' of null
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-KActivitiesStats( 0x5589386b75a0 ) ResultModelPrivate::onResultScoreUpdated  result added: "applications:vim.desktop" score: 0 last: 1556382717 first: 1556382717
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 6497, resource id: 62914583, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 6519, resource id: 44040363, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 14271, resource id: 37784416, major code: 3 (GetWindowAttributes), minor code: 0
-QXcbConnection: XCB error: 9 (BadDrawable), sequence: 14272, resource id: 37784416, major code: 14 (GetGeometry), minor code: 0
-kdeinit5: Got EXT_EXEC '/usr/bin/dolphin' from launcher.
-kdeinit5: preparing to launch '/usr/bin/dolphin'
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 16896, resource id: 62914560, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 16900, resource id: 62914561, major code: 18 (ChangeProperty), minor code: 0
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "stash"
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/today")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/yesterday")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/thismonth")
-org.kde.dolphin: Ignore KIO url: QUrl("timeline:/lastmonth")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/documents")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/images")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/audio")
-org.kde.dolphin: Ignore KIO url: QUrl("search:/videos")
-qt.accessibility.core: Cannot create accessible child interface for object:  PlacesView(0x5572ac6f6690)  index:  15
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
-kf5.kio.trash: listdir:  QUrl("trash:/")
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 17464, resource id: 37786514, major code: 3 (GetWindowAttributes), minor code: 0
-QXcbConnection: XCB error: 9 (BadDrawable), sequence: 17465, resource id: 37786514, major code: 14 (GetGeometry), minor code: 0
-QXcbConnection: XCB error: 2 (BadValue), sequence: 22589, resource id: 67108869, major code: 142 (Unknown), minor code: 3
-QXcbConnection: XCB error: 2 (BadValue), sequence: 22640, resource id: 62914565, major code: 142 (Unknown), minor code: 3
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so'
-Qt: Session management error: networkIdsList argument is NULL
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-Icon theme "gnome" not found.
-Icon theme "Numix" not found.
-trying to show an empty dialog
-file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/views/Desktop.qml:166: TypeError: Cannot read property 'showingDialog' of null
-QXcbWindow: Unhandled client message: "_NET_SHOWING_DESKTOP"
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30485, resource id: 44040409, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30495, resource id: 44040409, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30496, resource id: 44040409, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30497, resource id: 44040409, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30498, resource id: 44040409, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30499, resource id: 44040409, major code: 19 (DeleteProperty), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30500, resource id: 44040409, major code: 7 (ReparentWindow), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30501, resource id: 44040409, major code: 6 (ChangeSaveSet), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30502, resource id: 44040409, major code: 2 (ChangeWindowAttributes), minor code: 0
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 30503, resource id: 44040409, major code: 10 (UnmapWindow), minor code: 0
-QXcbWindow: Unhandled client message: "_NET_SHOWING_DESKTOP"
-QXcbWindow: Unhandled client message: "_NET_SHOWING_DESKTOP"
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:509:15: Unable to assign [undefined] to QString
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:213: Unable to assign [undefined] to QUrl
-file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:45:39: Unable to assign [undefined] to QString
-kdeinit5: PID 16836 terminated.
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 34060, resource id: 67108890, major code: 18 (ChangeProperty), minor code: 0
-QXcbConnection: XCB error: 2 (BadValue), sequence: 25302, resource id: 56623109, major code: 142 (Unknown), minor code: 3
-QXcbConnection: XCB error: 2 (BadValue), sequence: 25321, resource id: 60817414, major code: 142 (Unknown), minor code: 3
-kdeinit5: PID 16880 terminated.
-kdeinit5: PID 16878 terminated.
-kdeinit5: PID 16877 terminated.
-kdeinit5: PID 16871 terminated.
-QXcbConnection: XCB error: 3 (BadWindow), sequence: 38917, resource id: 60817493, major code: 18 (ChangeProperty), minor code: 0
-QWidgetWindow(0x55caaa044b20, name="FocusHackWidgetClassWindow") must be a top level window.
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/16/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/22/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/24/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/32/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/48/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/64/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-light/stock/128/"
-invalid theme "breeze_cursors"
-invalid theme "default"
-invalid theme "Breeze_Snow"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
-Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
-Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
-Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
-Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
-Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
-could not find icon "start-here"
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kde-gtk-config.desktop" score: 6.04221 last: 1556382863 first: 1541011386
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:workspaceoptions.desktop" score: 4.17746 last: 1556382875 first: 1541011391
-org.kde.kcoreaddons: Expected JSON property "X-KWin-Border-Activate" to be a single string. but it is a bool
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kwinscreenedges.desktop" score: 3.14705 last: 1556382879 first: 1541011394
-QWidgetWindow(0x55caaa044b20, name="FocusHackWidgetClassWindow") must be a top level window.
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kwinoptions.desktop" score: 5.16595 last: 1556382887 first: 1541011399
-QWidgetWindow(0x55caaa044b20, name="FocusHackWidgetClassWindow") must be a top level window.
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:standard_actions.desktop" score: 3.06393 last: 1556382901 first: 1548795376
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kcm_sddm.desktop" score: 3.2088 last: 1556382902 first: 1541011409
-kcm_kded: kded module "touchpad" still uses .desktop files ("kded/touchpad.desktop"). Please port it to JSON metadata.
-kcm_kded: kded module "notificationhelper" still uses .desktop files ("kded/notificationhelper.desktop"). Please port it to JSON metadata.
-kcm_kded: kded module "kded_printmanager" still uses .desktop files ("kded/printmanager.desktop"). Please port it to JSON metadata.
-kcm_kded: kded module "kded_accounts" still uses .desktop files ("kded/accounts.desktop"). Please port it to JSON metadata.
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/statusnotifierwatcher.so" autoload = true dbus module name = "statusnotifierwatcher"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkstatus.so" autoload = true dbus module name = "networkstatus"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/solidautoeject.so" autoload = true dbus module name = "solidautoeject"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/recentdocumentsnotifier.so" autoload = false dbus module name = "recentdocumentsnotifier"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/freespacenotifier.so" autoload = true dbus module name = "freespacenotifier"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/soliduiserver.so" autoload = false dbus module name = "soliduiserver"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ksysguard.so" autoload = true dbus module name = "ksysguard"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/khotkeys.so" autoload = true dbus module name = "khotkeys"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/remotenotifier.so" autoload = true dbus module name = "remotenotifier"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/keyboard.so" autoload = true dbus module name = "keyboard"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/bluedevil.so" autoload = true dbus module name = "bluedevil"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/baloosearchmodule.so" autoload = true dbus module name = "baloosearchmodule"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/device_automounter.so" autoload = true dbus module name = "device_automounter"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/filenamesearchmodule.so" autoload = false dbus module name = "filenamesearchmodule"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkmanagement.so" autoload = true dbus module name = "networkmanagement"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/plasmavault.so" autoload = true dbus module name = "plasmavault"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkwatcher.so" autoload = false dbus module name = "networkwatcher"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kwrited.so" autoload = true dbus module name = "kwrited"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kscreen.so" autoload = true dbus module name = "kscreen"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/desktopnotifier.so" autoload = false dbus module name = "desktopnotifier"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/colorcorrectlocationupdater.so" autoload = true dbus module name = "colorcorrectlocationupdater"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ktimezoned.so" autoload = true dbus module name = "ktimezoned"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kcookiejar.so" autoload = false dbus module name = "kcookiejar"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/proxyscout.so" autoload = true dbus module name = "proxyscout"
-kcm_kded: reading kded info from "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/appmenu.so" autoload = true dbus module name = "appmenu"
-kcm_kded: reading kded info from "kded/touchpad.desktop" autoload = true dbus module name = "touchpad"
-kcm_kded: reading kded info from "kded/notificationhelper.desktop" autoload = true dbus module name = "notificationhelper"
-kcm_kded: reading kded info from "kded/printmanager.desktop" autoload = true dbus module name = "kded_printmanager"
-kcm_kded: reading kded info from "kded/accounts.desktop" autoload = true dbus module name = "kded_accounts"
-kcm_kded: Loaded kded modules: ("touchpad", "remotenotifier", "networkstatus", "kwrited", "kded_accounts", "device_automounter", "ksysguard", "proxyscout", "baloosearchmodule", "colorcorrectlocationupdater", "kded_printmanager", "bluedevil", "notificationhelper", "keyboard", "networkmanagement", "kscreen", "ktimezoned", "freespacenotifier", "solidautoeject", "statusnotifierwatcher", "plasmavault", "khotkeys")
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:autostart.desktop" score: 2.00877 last: 1556382905 first: 1541011435
-KActivitiesStats( 0x55caa95a65e0 ) ResultModelPrivate::onResultScoreUpdated  result added: "kcm:kcmkded.desktop" score: 2.00877 last: 1556382906 first: 1541011443
-kcm_kded: kded module "touchpad" still uses .desktop files ("kded/touchpad.desktop"). Please port it to JSON metadata.
-kcm_kded: kded module "notificationhelper" still uses .desktop files ("kded/notificationhelper.desktop"). Please port it to JSON metadata.
-kcm_kded: kded module "kded_printmanager" still uses .desktop files ("kded/printmanager.desktop"). Please port it to JSON metadata.
-kcm_kded: kded module "kded_accounts" still uses .desktop files ("kded/accounts.desktop"). Please port it to JSON metadata.
-kcm_kded: saving settings for kded module "statusnotifierwatcher"
-kcm_kded: saving settings for kded module "networkstatus"
-kcm_kded: saving settings for kded module "solidautoeject"
-kcm_kded: saving settings for kded module "recentdocumentsnotifier"
-kcm_kded: saving settings for kded module "freespacenotifier"
-kcm_kded: saving settings for kded module "soliduiserver"
-kcm_kded: saving settings for kded module "ksysguard"
-kcm_kded: saving settings for kded module "khotkeys"
-kcm_kded: saving settings for kded module "remotenotifier"
-kcm_kded: saving settings for kded module "keyboard"
-kcm_kded: saving settings for kded module "bluedevil"
-kcm_kded: saving settings for kded module "baloosearchmodule"
-kcm_kded: saving settings for kded module "device_automounter"
-kcm_kded: saving settings for kded module "filenamesearchmodule"
-kcm_kded: saving settings for kded module "networkmanagement"
-kcm_kded: saving settings for kded module "plasmavault"
-kcm_kded: saving settings for kded module "networkwatcher"
-kcm_kded: saving settings for kded module "kwrited"
-kcm_kded: saving settings for kded module "kscreen"
-kcm_kded: saving settings for kded module "desktopnotifier"
-kcm_kded: saving settings for kded module "colorcorrectlocationupdater"
-kcm_kded: saving settings for kded module "ktimezoned"
-kcm_kded: saving settings for kded module "kcookiejar"
-kcm_kded: saving settings for kded module "proxyscout"
-kcm_kded: saving settings for kded module "appmenu"
-kcm_kded: saving settings for kded module "touchpad"
-kcm_kded: saving settings for kded module "notificationhelper"
+e "notificationhelper"
 kcm_kded: saving settings for kded module "kded_printmanager"
 kcm_kded: saving settings for kded module "kded_accounts"
 bluedevil: Destroyed
@@ -6549,3 +5375,487 @@ Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons
 Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
 Icon theme "gnome" not found.
 Icon theme "Numix" not found.
+Xsession: X session started for teste at seg abr 29 22:06:10 -03 2019
+localuser:teste being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+dbus-update-activation-environment: setting LANG=pt_BR.UTF-8
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/plasma.mandatory.path
+dbus-update-activation-environment: setting USER=teste
+dbus-update-activation-environment: setting DESKTOP_SESSION=plasma
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/plasma.default.path
+dbus-update-activation-environment: setting PWD=/home/teste
+dbus-update-activation-environment: setting HOME=/home/teste
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/plasma:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=KDE
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=KDE
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1001/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=pt_BR:pt:en
+dbus-update-activation-environment: setting LOGNAME=teste
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-z3n5ORg7Bf,guid=ae8f25e33a0ae934bec75f545cc79f82
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1001
+dbus-update-activation-environment: setting XAUTHORITY=/home/teste/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session8
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings
+dbus-update-activation-environment: setting PATH=/home/teste/bin:/home/teste/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+kcm_input: Using X11 backend
+startkde: Starting up...
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 7370, result = 0
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kdeinit5: opened connection to :1
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+kdeinit5: preparing to launch 'libkdeinit5_kded5'
+kdeinit5: Launched KDED, pid = 7373 result = 0
+kdeinit5: preparing to launch 'libkdeinit5_kcminit_startup'
+kdeinit5: Launched 'kcminit_startup', pid = 7374 result = 0
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/statusnotifierwatcher.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkstatus.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/solidautoeject.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/recentdocumentsnotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/freespacenotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/soliduiserver.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ksysguard.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/khotkeys.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/remotenotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/keyboard.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/bluedevil.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/baloosearchmodule.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/device_automounter.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/filenamesearchmodule.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkmanagement.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/plasmavault.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkwatcher.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kwrited.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kscreen.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/desktopnotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/colorcorrectlocationupdater.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ktimezoned.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/proxyscout.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/appmenu.so"
+kf5.kservice.services: The desktop entry file "/usr/share/applications/org.kde.systemmonitor.desktop" has Type= "Application" but no Exec line
+kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/org.kde.systemmonitor.desktop"
+kf5.kservice.services: The desktop entry file "/usr/share/applications/org.kde.drkonqi.desktop" has Type= "Application" but no Exec line
+kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/org.kde.drkonqi.desktop"
+Initializing  "kcm_style" :  "kcminit_style"
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/teste/.gtkrc:/home/teste/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/teste/.gtkrc-2.0:/home/teste/.config/gtkrc-2.0' from launcher.
+org.kde.kcoreaddons: Expected JSON property "X-KDE-OnlyShowOnQtPlatforms" to be a string list. Treating it as a list with a single entry: "xcb" 
+Loaded KAccounts plugin "/usr/lib/x86_64-linux-gnu/qt5/plugins/kaccounts/daemonplugins/gdrive.so"
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/kcalcrc.upd' will be skipped."
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/kile.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/kile.upd' will be skipped."
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2019-04-29T22:06:13 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/okular.upd' will be skipped."
+kdeinit5: PID 7398 terminated.
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+pm.kded: unable to register service to dbus
+kscreen.kded: PowerDevil SuspendSession action not available!
+kscreen: Requesting missing EDID for outputs (70)
+kscreen: Requesting missing EDID for outputs (70)
+Initializing  "kcm_input" :  "kcminit_mouse"
+kcm_input: Using X11 backend
+Initializing  "kcm_access" :  "kcminit_access"
+kdeinit5: Got SETENV 'XCURSOR_THEME=masalla-cursor-sky' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=0' from launcher.
+kdeinit5: Got EXEC_NEW '/usr/bin/kaccess' from launcher.
+kdeinit5: preparing to launch '/usr/bin/kaccess'
+kdeinit5: PID 7374 terminated.
+kdeinit5: Got KWRAPPER '/usr/bin/ksmserver' from wrapper.
+kdeinit5: preparing to launch '/usr/bin/ksmserver'
+Cannot find 'org.kde.KSplash.setStage' in object /KSplash at org.kde.KSplash
+Xlib XKB extension major= 1  minor= 0
+X server XKB extension major= 1  minor= 0
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+Qt: Session management error: networkIdsList argument is NULL
+Configuring Lock Action
+ksmserver: "/run/user/1001/KSMserver"
+ksmserver: KSMServer: SetAProc_loc: conn  0 , prot= local , file= @/tmp/.ICE-unix/7412
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/aero:@/tmp/.ICE-unix/7412,unix/aero:/tmp/.ICE-unix/7412' from launcher.
+ksmserver: KSMServer: SetAProc_loc: conn  1 , prot= unix , file= /tmp/.ICE-unix/7412
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+ksmserver: Starting autostart service  "/etc/xdg/autostart/baloo_file.desktop" ("/usr/bin/baloo_file")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/krunner.desktop" ("/usr/bin/krunner")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/org.kde.plasmashell.desktop" ("/usr/bin/plasmashell")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/pam_kwallet_init.desktop" ("/usr/share/libpam-kwallet-common/pam_kwallet_init")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/polkit-kde-authentication-agent-1.desktop" ("/usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/xembedsniproxy.desktop" ("/usr/bin/xembedsniproxy")
+ksmserver: Autostart 0 done
+kf5.kcoreaddons.kaboutdata: Could not initialize the equivalent properties of Q*Application: no instance (yet) existing.
+Initializing  "kded_touchpad" :  "kcminit_touchpad"
+kcm_touchpad: Using X11 backend
+Session path: "/org/freedesktop/login1/session/_316"
+Initializing  "kcm_kgamma" :  "kcminit_kgamma"
+ksmserver: Kcminit phase 1 done
+ksmserver: Starting autostart service  "/etc/xdg/autostart/kdeconnectd.desktop" ("/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/pulseaudio.desktop" ("/usr/bin/start-pulseaudio-x11")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/xdg-user-dirs.desktop" ("/usr/bin/xdg-user-dirs-update")
+ksmserver: Autostart 1 done
+ksmserver: Starting autostart service  "/etc/xdg/autostart/at-spi-dbus-bus.desktop" ("/usr/lib/at-spi2-core/at-spi-bus-launcher", "--launch-immediately")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/powerdevil.desktop" ("/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/snap-userd-autostart.desktop" ("/usr/bin/snap", "userd", "--autostart")
+ksmserver: Starting autostart service  "/etc/xdg/autostart/spice-vdagent.desktop" ("/usr/bin/spice-vdagent")
+ksmserver: Autostart 2 done
+ksmserver: Kcminit phase 2 done
+Installing the delayed initialization callback.
+New PolkitAgentListener  0x5614b90022e0
+Adding new listener  PolkitQt1::Agent::Listener(0x5614b9019fc0) for  0x5614b90022e0
+Listener online
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+Authentication agent result: true
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+QDBusArgument: read from a write-only object
+QDBusArgument: read from a write-only object
+QDBusArgument: read from a write-only object
+kdeconnect.core: KdeConnect daemon starting
+kf5.kded: found kded module "touchpad" by prepending 'kded_' to the library path, please fix your metadata.
+kcm_touchpad: Using X11 backend
+kdeconnect.core: Warning: KDE Connect private key file has too open permissions  "/home/teste/.config/kdeconnect/privateKey.pem"
+kdeconnect.core: onStart
+kdeconnect.core: KdeConnect daemon started
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+kf5.kded: found kded module "notificationhelper" by prepending 'kded_' to the library path, please fix your metadata.
+ksmserver: Starting notification thread
+Delayed initialization.
+kdeconnect.core: Broadcasting identity packet
+Reloading the khotkeys configuration
+Version 2 File!
+kdeconnect.core: Starting client ssl (but I'm the server TCP socket)
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+kdeconnect.core: Socket succesfully stablished an SSL connection
+kdeconnect.core: It is a new device "bowser@aero"
+kdeconnect.core: Not loading plugin "kdeconnect_findmyphone" because device doesn't support it
+kdeconnect.core: Not loading plugin "kdeconnect_sftp" because device doesn't support it
+kdeconnect.core: Not loading plugin "kdeconnect_pausemusic" because device doesn't support it
+kdeconnect.core: Not loading plugin "kdeconnect_telephony" because device doesn't support it
+kdeconnect.core: Not loading plugin "kdeconnect_battery" because device doesn't support it
+kdeconnect.core: Not loading plugin "kdeconnect_runcommand" because device doesn't support it
+kdeconnect.core: Not loading plugin "kdeconnect_mpriscontrol" because device doesn't support it
+true
+Imported file "/usr/share/khotkeys/kde32b1.khotkeys"
+Imported file "/usr/share/khotkeys/spectacle.khotkeys"
+Imported file "/usr/share/khotkeys/konqueror_gestures_kde321.khotkeys"
+Imported file "/usr/share/khotkeys/defaults.khotkeys"
+powerdevil: Backend loaded, loading core
+powerdevil: Core loaded, initializing backend
+powerdevil: No outputs have backlight property
+powerdevil: Xrandr not supported, trying ddc, helper
+powerdevil: [DDCutilBrightness] compiled without DDC/CI support
+powerdevil: Falling back to helper to get brightness
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+ksmserver: completeShutdownOrCheckpoint called
+powerdevil: org.kde.powerdevil.backlighthelper.brightness failed
+powerdevil: ""
+powerdevil: Backend is ready, KDE Power Management system initialized
+powerdevil: Session path: "/org/freedesktop/login1/session/_316"
+powerdevil: ACTIVE SESSION PATH: "/org/freedesktop/login1/session/_316"
+powerdevil: Current session is now active
+powerdevil: fd passing available: true
+powerdevil: systemd powersave events handling inhibited, descriptor: 19
+powerdevil: systemd support initialized
+powerdevil: Got a valid offer for  "DPMSControl"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Capabilities"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "ConnectivityCheckAvailable"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "ConnectivityCheckEnabled"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+powerdevil: Core is ready, registering various services on the bus...
+powerdevil: Can't contact ck
+powerdevil: We are now into activity  "adc9d05a-c852-41f9-8e4e-f220c63023c8"
+powerdevil: () ()
+powerdevil: () ()
+powerdevil: No batteries found, loading AC
+powerdevil: Activity is not forcing a profile
+powerdevil: Handle button events action could not check for screen configuration
+powerdevil: The profile  "AC" tried to activate "DimDisplay" a non-existent action. This is usually due to an installation problem, or to a configuration problem, or simply the action is not supported
+powerdevil: Can't contact ck
+org.kde.plasmaquick: Applet preload policy set to 1
+OpenGL vendor string:                   VMware, Inc.
+OpenGL renderer string:                 llvmpipe (LLVM 7.0, 256 bits)
+OpenGL version string:                  3.1 Mesa 18.2.8
+OpenGL shading language version string: 1.40
+Driver:                                 LLVMpipe
+GPU class:                              Unknown
+OpenGL version:                         3.1
+GLSL version:                           1.40
+Mesa version:                           18.2.8
+X server version:                       1.19.6
+Linux kernel version:                   4.15
+Requires strict binding:                yes
+GLSL shaders:                           yes
+Texture NPOT support:                   yes
+Virtual Machine:                        no
+kf5.kcoreaddons.desktopparser: Property type "Url" is not a known QVariant type. Found while parsing property definition for "X-KWin-Video-Url" in "/usr/share/kservicetypes5/kwineffect.desktop"
+Warning: all files used by qml by the plasmoid should be in ui/. The file in the path "file:///usr/share/plasma/plasmoids/org.kde.desktopcontainment/contents/code/LayoutManager.js" was expected at QUrl("file:///usr/share/plasma/plasmoids/org.kde.desktopcontainment/contents/ui/LayoutManager.js")
+Warning: all files used by qml by the plasmoid should be in ui/. The file in the path "file:///usr/share/plasma/plasmoids/org.kde.desktopcontainment/contents/code/FolderTools.js" was expected at QUrl("file:///usr/share/plasma/plasmoids/org.kde.desktopcontainment/contents/ui/FolderTools.js")
+kf5.kpackage: No metadata file in the package, expected it at: "/usr/share/wallpapers/facomp/"
+kf5.kpackage: No metadata file in the package, expected it at: "/usr/share/wallpapers/facomp/"
+kf5.kpackage: No metadata file in the package, expected it at: "/usr/share/wallpapers/facomp/"
+trying to show an empty dialog
+Trying to use rootObject before initialization is completed, whilst using setInitializationDelayed. Forcing completion
+KActivities: Database connection:  "kactivities_db_resources_139709694830592_readonly" 
+    query_only:          QVariant(qlonglong, 1) 
+    journal_mode:        QVariant(QString, "wal") 
+    wal_autocheckpoint:  QVariant(qlonglong, 100) 
+    synchronous:         QVariant(qlonglong, 0)
+Closing SQL connection:  "kactivities_db_resources_139709694830592_readonly"
+KActivities: Database connection:  "kactivities_db_resources_139709694830592_readonly" 
+    query_only:          QVariant(qlonglong, 1) 
+    journal_mode:        QVariant(QString, "wal") 
+    wal_autocheckpoint:  QVariant(qlonglong, 100) 
+    synchronous:         QVariant(qlonglong, 0)
+Nothing to load - the client id is empty
+Nothing to load - the client id is empty
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Trying to use rootObject before initialization is completed, whilst using setInitializationDelayed. Forcing completion
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+trying to show an empty dialog
+org.kde.plasmaquick: New Applet  "Relógio digital" with a weight of 50
+Warning: all files used by qml by the plasmoid should be in ui/. The file in the path "file:///usr/share/plasma/plasmoids/org.kde.panel/contents/code/LayoutManager.js" was expected at QUrl("file:///usr/share/plasma/plasmoids/org.kde.panel/contents/ui/LayoutManager.js")
+Registering "org.kde.StatusNotifierHost-7432" as system tray
+org.kde.plasmaquick: New Applet  "Notificação de dispositivos" with a weight of 9
+Warning: all files used by qml by the plasmoid should be in ui/. The file in the path "file:///usr/share/plasma/plasmoids/org.kde.plasma.notifications/contents/code/uiproperties.js" was expected at QUrl("file:///usr/share/plasma/plasmoids/org.kde.plasma.notifications/contents/ui/uiproperties.js")
+org.kde.plasmaquick: New Applet  "Notificações" with a weight of 47
+org.kde.plasmaquick: New Applet  "Volume do áudio" with a weight of 0
+org.kde.plasmaquick: New Applet  "Área de transferência" with a weight of 0
+Plasma Shell startup completed
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Capabilities"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "ConnectivityCheckAvailable"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "ConnectivityCheckEnabled"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+networkmanager-qt: virtual void NetworkManager::ActiveConnectionPrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "StateFlags"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+org.kde.plasmaquick: New Applet  "Redes" with a weight of 92
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Capabilities"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "ConnectivityCheckAvailable"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "ConnectivityCheckEnabled"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::ActiveConnectionPrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "StateFlags"
+org.kde.plasmaquick: Delayed preload of  "Relógio digital" after 4.4 seconds
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+trying to show an empty dialog
+org.kde.plasmaquick: Applet "Relógio digital" loaded after 38 msec
+org.kde.plasmaquick: Delayed preload of  "Notificações" after 4.056 seconds
+org.kde.plasmaquick: Applet "Notificações" loaded after 0 msec
+Currrent active notifications: QHash()
+Guessing partOf as: 0
+ New Notification:  "notle" "Conexão 'notle' ativada." -1 & Part of: 0
+org.kde.plasma.pulseaudio: No object for name "alsa_output.pci-0000_00_1f.3.analog-stereo.monitor"
+org.kde.plasmaquick: Delayed preload of  "Redes" after 0.508 seconds
+org.kde.plasmaquick: Applet "Redes" loaded after 92 msec
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 1747, resource id: 44040235, major code: 3 (GetWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 9 (BadDrawable), sequence: 1748, resource id: 44040235, major code: 14 (GetGeometry), minor code: 0
+trying to show an empty dialog
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 2665, resource id: 44040292, major code: 3 (GetWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 9 (BadDrawable), sequence: 2666, resource id: 44040292, major code: 14 (GetGeometry), minor code: 0
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+QDBusArgument: read from a write-only object
+QDBusArgument: read from a write-only object
+QDBusArgument: read from a write-only object
+Module 'org.kde.kwin.decoration' does not contain a module identifier directive - it cannot be protected from external registrations.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 4052, resource id: 44040322, major code: 3 (GetWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 9 (BadDrawable), sequence: 4053, resource id: 44040322, major code: 14 (GetGeometry), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 4125, resource id: 54525967, major code: 18 (ChangeProperty), minor code: 0
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+QDBusArgument: read from a write-only object
+QDBusArgument: read from a write-only object
+QDBusArgument: read from a write-only object
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 5122, resource id: 54525967, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 5167, resource id: 44040433, major code: 3 (GetWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 9 (BadDrawable), sequence: 5168, resource id: 44040433, major code: 14 (GetGeometry), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 9966, resource id: 44040697, major code: 3 (GetWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 9 (BadDrawable), sequence: 9967, resource id: 44040697, major code: 14 (GetGeometry), minor code: 0
+file:///usr/share/plasma/shells/org.kde.plasma.desktop/contents/configuration/AppletConfiguration.qml:284:21: QML StackView: Binding loop detected for property "height"
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 11498, resource id: 41943179, major code: 15 (QueryTree), minor code: 0
+file:///usr/share/plasma/plasmoids/org.kde.plasma.kicker/contents/ui/ItemGridView.qml:420: TypeError: Cannot read property 'itemIndex' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:45:39: Unable to assign [undefined] to QString
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:509:15: Unable to assign [undefined] to QString
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:213: Unable to assign [undefined] to QUrl
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+libpng warning: iCCP: known incorrect sRGB profile
+KActivitiesStats( 0x55df11dd1930 ) ResultModelPrivate::onResultScoreUpdated  result added: "applications:org.kde.konsole.desktop" score: 2.98827 last: 1556586472 first: 1538757526
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+file:///usr/share/plasma/plasmoids/org.kde.plasma.kicker/contents/ui/ItemGridView.qml:420: TypeError: Cannot read property 'itemIndex' of null
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:45:39: Unable to assign [undefined] to QString
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:509:15: Unable to assign [undefined] to QString
+file:///usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/Task.qml:213: Unable to assign [undefined] to QUrl
+Invalid Type= "fixes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/status/22/"
+Invalid Context= "Mimetypes" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/mimetypes/48/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/16/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/22/"
+Invalid Context= "actions" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/actions/48/"
+Invalid Type= "scalable" line for icon theme:  "/home/teste/.local/share/icons/Zafiro-icons-0.6/emblems/16/"
+Icon theme "gnome" not found.
+Icon theme "Numix" not found.
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "stash"
+org.kde.dolphin: Ignore KIO url: QUrl("timeline:/today")
+org.kde.dolphin: Ignore KIO url: QUrl("timeline:/yesterday")
+org.kde.dolphin: Ignore KIO url: QUrl("timeline:/thismonth")
+org.kde.dolphin: Ignore KIO url: QUrl("timeline:/lastmonth")
+org.kde.dolphin: Ignore KIO url: QUrl("search:/documents")
+org.kde.dolphin: Ignore KIO url: QUrl("search:/images")
+org.kde.dolphin: Ignore KIO url: QUrl("search:/audio")
+org.kde.dolphin: Ignore KIO url: QUrl("search:/videos")
+qt.accessibility.core: Cannot create accessible child interface for object:  PlacesView(0x564fbfac71a0)  index:  14
+KActivitiesStats( 0x55df11dd1930 ) ResultModelPrivate::onResultScoreUpdated  result added: "applications:org.kde.dolphin.desktop" score: 7.85116 last: 1556586484 first: 1541437023
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
+kf5.kio.trash: listdir:  QUrl("trash:/")
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: PID 7655 terminated.
+kdeinit5: PID 7658 terminated.
+kdeinit5: PID 7656 terminated.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 16656, resource id: 56623123, major code: 18 (ChangeProperty), minor code: 0

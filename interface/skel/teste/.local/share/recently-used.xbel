@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/raoni/Downloads/ALAN%20SOUSA.pdf" added="2019-03-25T16:55:59Z" modified="2019-03-25T16:55:59Z" visited="2019-03-25T16:55:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-03-25T16:55:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/raoni/Downloads/Declara%C3%A7%C3%A3o%20Anual%20Sa%C3%BAde%202018_Alan%20Sousa" added="2019-03-25T17:10:41Z" modified="2019-03-25T17:10:41Z" visited="2019-03-25T17:10:41.814915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2019-03-25T17:10:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

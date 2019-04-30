@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Arc KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1167637</homepage>
+  <licence></licence>
+  <version>20180201</version>
+  <rating>59</rating>
+  <downloads>101877</downloads>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/minimize.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/close.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/maximize.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/Arc-Darkrc</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/AUTHORS</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/keepbelow.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/LICENSE</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/alldesktops.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/metadata.desktop</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/decoration.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/keepabove.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/shade.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc-Dark/</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/minimize.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/Arcrc</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/close.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/maximize.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/AUTHORS</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/keepbelow.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/LICENSE</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/alldesktops.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/metadata.desktop</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/decoration.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/keepabove.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/shade.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//Arc/</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//</installedfile>
+  <id>1167637</id>
+  <releasedate>2018-02-01</releasedate>
+  <summary>Arc KDE - This is a port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.&lt;br />
+RECOMMEND USE THIS CUSTOMISATION WITH KVANTUM ENGINE:&lt;br />
+https://www.opendesktop.org/p/1005410/&lt;br />
+https://github.com/tsujan/Kvantum/releases</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1517466545/s/082ee97245c0475f27800c1b45bba87e/t/1538727622/o/1/arc-kde-aurorae.tar.xz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>FormArc</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>sira313</author>
+  <homepage>https://store.kde.org/p/1246672</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>50</rating>
+  <downloads>71</downloads>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//FormArc/screenshot.png</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//FormArc/minimize.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//FormArc/maximize.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//FormArc/restore.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//FormArc/close.svgz</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//FormArc/metadata.desktop</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//FormArc/decoration.svgz</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//FormArc/FormArcrc</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//FormArc/</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//</installedfile>
+  <id>1246672</id>
+  <releasedate>2018-10-04</releasedate>
+  <summary>This is remixed aurorae themes based on FormaN by raimis&lt;br />
+for Plasmashell 5.13+</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img/8/6/d/d/0bd5d9470608e7bc66c2ae018962227fb606.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img/8/6/d/d/0bd5d9470608e7bc66c2ae018962227fb606.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1538652820/s/56511e2fa8fb877ac177f7738e0edf7a/t/1538727604/o/1/FormArc.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>KArc</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>tourada</author>
+  <homepage>https://store.kde.org/p/1002639</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>54</rating>
+  <downloads>18879</downloads>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/close.svgz</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/maximize.svgz</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/LICENSE</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/help.svgz</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/KArcrc</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/minimize.svgz</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/README.md</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/metadata.desktop</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/decoration.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc/</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc-Dark/KArc-Darkrc</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc-Dark/close.svgz</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc-Dark/maximize.svgz</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc-Dark/LICENSE</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc-Dark/minimize.svgz</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc-Dark/README.md</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc-Dark/metadata.desktop</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc-Dark/decoration.svg</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//KArc-Dark/</installedfile>
+  <installedfile>/home/raoni/.local/share/aurorae/themes//</installedfile>
+  <id>1002639</id>
+  <releasedate>2015-11-11</releasedate>
+  <summary>An Arc port to the KDE Aurorae engine.  KArc is a flat theme with support for transparency using QTCurve. KArc also supports translucent window backgrounds (blurred and increased contrast) using Desktop Effects.&lt;br />
+&lt;br />
+Plasma Theme: http://kde-look.org/content/show.php?content=174321&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img//hive/content-pre1/174317-1.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img//hive/content-pre1/174317-1.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1460740767/s/3068a356b5e4f0ce6fa6a8af1d45d53d/t/1538727626/o/1/174317-KArc.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

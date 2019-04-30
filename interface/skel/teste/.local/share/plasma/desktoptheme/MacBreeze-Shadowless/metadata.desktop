@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=A theme that closely mimics the style of Mac OS X. Panel is without shadows for more flat look and coherent merging with maximized windows (shadow would overlapp on the window creating 3D effect of having panel over the window - in current shadowless version I tried to avoid that effect)
+Name=MacBreeze Shadowless
+X-KDE-PluginInfo-Author=Michał Dybczak
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=michal.dybczak@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=CC BY-SA
+X-KDE-PluginInfo-Name=MacBreeze-Shadowless
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.13+
