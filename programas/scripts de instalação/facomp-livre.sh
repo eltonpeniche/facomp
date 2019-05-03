@@ -26,6 +26,7 @@ apt install codelite -y
 apt install codeblocks -y
 apt install idle -y
 snap install intellij-idea-educational --classic
+snap install --classic code # NÂO TESTADO
 
 apt install vim -y 
 
