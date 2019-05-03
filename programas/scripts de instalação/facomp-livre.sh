@@ -25,6 +25,7 @@ apt install scratch -y
 apt install codelite -y
 apt install codeblocks -y
 apt install idle -y
+snap install intellij-idea-educational --classic
 
 apt install vim -y 
 
