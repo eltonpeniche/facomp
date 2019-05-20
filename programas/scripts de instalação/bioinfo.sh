@@ -48,11 +48,12 @@ unzip Blast2GO_unix_5_2_5.zip
 #GeneMark-ES http://topaz.gatech.edu/GeneMark/gmes_instructions.html
 #Instalar dependências
 wget http://topaz.gatech.edu/GeneMark/tmp/GMtool_XA6Nm/gm_et_linux_64.tar.gz
+tar -xzvf gm_et_linux_64.tar.gz
 wget http://topaz.gatech.edu/GeneMark/tmp/GMtool_XA6Nm/gm_key_64.gz
 sudo cpan install YAML Hash::Merge Logger::Simple Parallel::ForkManager
 sudo cp -r gm_et_linux_64  /usr/local/genemark_ES_ET
 cd /usr/local/genemark_ES_ET/gmes_petap/ 
-perl change_path_in_perl_scripts.pl "/usr/bin/env perl"
+sudo perl change_path_in_perl_scripts.pl "/usr/bin/env perl"
 sudo cp /usr/local/genemark_ES_ET/gm_key_64 ~/.gm_key
 sudo ln -s /usr/local/genemark_ES_ET/gmes_petap/*.pl /usr/local/bin/
 
