@@ -94,6 +94,11 @@ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sou
 apt update
 apt install sublime-text -y
 
+#Rstudio
+wget -c https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.1335-amd64.deb
+sudo dpkg -i rstudio-1.2.1335-amd64.deb 
+sudo apt -y install -f
+
 #programas requisitados pelo Prof. Filipe saraiva
 sudo apt -y install cantor cantor-backend-python3 python3-numpy python3-scipy python3-matplotlib spyder3 jupyter-notebook
 pip3 install spyder-notebook simpy fitter==1.0.9
