@@ -1,18 +1,18 @@
-#/bin/bash
+#!/bin/bash
 
 echo "Desbloqueando travas"
 sleep 5
 
-sudo rm /var/lib/apt/lists/lock
-sudo rm /var/lib/dpkg/lock
-sudo apt-get update
+rm /var/lib/apt/lists/lock
+rm /var/lib/dpkg/lock
+apt update
 
 echo -en "\e[3J"
 
 echo "Instalando o programa curl"
 sleep 5
 
-sudo apt install curl -y
+apt install curl -y
 
 echo -en "\e[3J"
 
@@ -38,20 +38,16 @@ bash Anaconda3-5.2.0-Linux-x86_64.sh
 
 echo -en "\e[3J"
 
+echo 'export PATH=/usr/local/anaconda3/bin:$PATH' | sudo tee -a /etc/bash.bashrc
+
 echo "Ativar a instalação"
 sleep 5
 
-source ~/.bashrc
+source /etc/bash.bashrc
 
 echo -en "\e[3J"
-
-echo "Instalação de teste"
-sleep 5
 
 conda list
 
-echo -en "\e[3J"
-
 echo "Rodar o jupyter -> jupyter notebook"
-sleep 20
 
