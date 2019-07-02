@@ -41,7 +41,53 @@ desligarMaquinas(){
 }
 
 ligarMaquinas(){
-    sudo ./wakeUpCluster.sh
+    
+    clear
+	echo -e "---------------LIGAR MÁQUINAS---------- \n"
+	while true;do
+            
+            echo ""
+            echo " Ligar Todas as Máquinas -----------(1)"
+            echo " Ligar uma máquina -----------------(2)"
+            echo " Voltar--------------------------------(0)"
+            read -p "escolha uma opção entre 0 a 2:  " opcao
+            	if [ $opcao -eq 1 ]; then
+                    sudo ./wakeUpCluster.sh
+                elif [ $opcao -eq 2 ]; then
+                    while true;do
+                        
+                        echo -e "pressione 0 (zero) para Voltar"
+                        read -p "Qual maquina você quer Ligar ?(ex: 01, 07, 12, 30): " opcao1
+                        if [ $opcao1 -eq 0 ]; then
+                            break
+                        else
+                            echo "Ligando o PC$opcao1"
+                            # Variável com o mac das máquinas
+                            macs=(${macs[@]} `cat /usr/local/Cluster.config/mac_host.txt`)
+                            len=${#macs[*]}
+                            
+                            for ((i=2;i<len;i+=2)) do
+                                div=$(($opcao1 * 2))
+                                if [ $div -eq $i ]; then
+                                    wakeonlan ${macs[i]}
+                                fi
+                            done
+                            
+                        fi
+                        
+                    done
+                elif [ $opcao -eq 0 ]; then
+                    clear
+                    break
+                else
+                    echo "OPÇÃO INVÁLIDA! TENTE NOVAMENTE..!!"
+                fi
+
+            
+    done
+
+	sleep 2    
+
 }
 
 reiniciarMaquinas(){
